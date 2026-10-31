@@ -1,0 +1,4168 @@
+{
+ "2026-09-15": {
+  "obs": {
+   "tmax": 17.9,
+   "tmin": 12.6,
+   "precip": 1.8
+  }
+ },
+ "2026-09-16": {
+  "obs": {
+   "tmax": 16.9,
+   "tmin": 10.8,
+   "precip": 1.8
+  }
+ },
+ "2026-09-17": {
+  "obs": {
+   "tmax": 14.4,
+   "tmin": 11.3,
+   "precip": 2.0
+  }
+ },
+ "2026-09-18": {
+  "obs": {
+   "tmax": 16.4,
+   "tmin": 12.2,
+   "precip": 0.6
+  }
+ },
+ "2026-09-19": {
+  "obs": {
+   "tmax": 16.2,
+   "tmin": 12.1,
+   "precip": 0.2
+  }
+ },
+ "2026-09-20": {
+  "obs": {
+   "tmax": 16.9,
+   "tmin": 11.4,
+   "precip": 0.0
+  }
+ },
+ "2026-09-21": {
+  "obs": {
+   "tmax": 19.1,
+   "tmin": 10.5,
+   "precip": 1.2
+  }
+ },
+ "2026-09-22": {
+  "obs": {
+   "tmax": 20.8,
+   "tmin": 15.5,
+   "precip": 0.3
+  }
+ },
+ "2026-09-23": {
+  "obs": {
+   "tmax": 16.4,
+   "tmin": 7.8,
+   "precip": 5.5
+  }
+ },
+ "2026-09-24": {
+  "obs": {
+   "tmax": 16.9,
+   "tmin": 6.5,
+   "precip": 0.3
+  }
+ },
+ "2026-09-25": {
+  "obs": {
+   "tmax": 15.8,
+   "tmin": 11.4,
+   "precip": 1.5
+  }
+ },
+ "2026-09-26": {
+  "obs": {
+   "tmax": 17.0,
+   "tmin": 12.1,
+   "precip": 0.1
+  }
+ },
+ "2026-09-27": {
+  "obs": {
+   "tmax": 14.7,
+   "tmin": 10.0,
+   "precip": 8.1
+  }
+ },
+ "2026-09-28": {
+  "obs": {
+   "tmax": 16.5,
+   "tmin": 6.5,
+   "precip": 0.0
+  }
+ },
+ "2026-09-29": {
+  "obs": {
+   "tmax": 17.5,
+   "tmin": 6.5,
+   "precip": 0.0
+  }
+ },
+ "2026-09-30": {
+  "obs": {
+   "tmax": 19.4,
+   "tmin": 13.0,
+   "precip": 3.3
+  }
+ },
+ "2026-10-01": {
+  "obs": {
+   "tmax": 16.8,
+   "tmin": 11.3,
+   "precip": 0.0
+  }
+ },
+ "2026-10-02": {
+  "obs": {
+   "tmax": 17.6,
+   "tmin": 10.8,
+   "precip": 4.1
+  }
+ },
+ "2026-10-03": {
+  "obs": {
+   "tmax": 15.2,
+   "tmin": 8.7,
+   "precip": 0.0
+  }
+ },
+ "2026-10-04": {
+  "obs": {
+   "tmax": 17.2,
+   "tmin": 10.8,
+   "precip": 0.0
+  }
+ },
+ "2026-10-05": {
+  "obs": {
+   "tmax": 17.3,
+   "tmin": 11.3,
+   "precip": 0.2
+  }
+ },
+ "2026-10-06": {
+  "obs": {
+   "tmax": 14.8,
+   "tmin": 7.5,
+   "precip": 0.1
+  }
+ },
+ "2026-10-07": {
+  "obs": {
+   "tmax": 13.5,
+   "tmin": 5.0,
+   "precip": 0.0
+  }
+ },
+ "2026-10-08": {
+  "obs": {
+   "tmax": 12.4,
+   "tmin": 4.3,
+   "precip": 4.5
+  }
+ },
+ "2026-10-09": {
+  "obs": {
+   "tmax": 14.2,
+   "tmin": 9.7,
+   "precip": 2.3
+  }
+ },
+ "2026-10-10": {
+  "obs": {
+   "tmax": 12.9,
+   "tmin": 8.2,
+   "precip": 0.0
+  }
+ },
+ "2026-10-11": {
+  "obs": {
+   "tmax": 13.3,
+   "tmin": 6.3,
+   "precip": 0.0
+  }
+ },
+ "2026-10-12": {
+  "obs": {
+   "tmax": 16.7,
+   "tmin": 5.6,
+   "precip": 0.7
+  }
+ },
+ "2026-10-13": {
+  "obs": {
+   "tmax": 17.3,
+   "tmin": 9.0,
+   "precip": 1.5
+  }
+ },
+ "2026-10-14": {
+  "obs": {
+   "tmax": 17.0,
+   "tmin": 8.9,
+   "precip": 1.5
+  }
+ },
+ "2026-10-15": {
+  "obs": {
+   "tmax": 15.3,
+   "tmin": 9.2,
+   "precip": 3.4
+  }
+ },
+ "2026-10-16": {
+  "obs": {
+   "tmax": 12.9,
+   "tmin": 5.9,
+   "precip": 0.0
+  }
+ },
+ "2026-10-17": {
+  "days": [
+   {
+    "date": "2026-10-17",
+    "tmax": 9,
+    "tmin": 2,
+    "precip_risk": "low"
+   },
+   {
+    "date": "2026-10-18",
+    "tmax": 11,
+    "tmin": 2,
+    "precip_risk": "low"
+   },
+   {
+    "date": "2026-10-19",
+    "tmax": 13,
+    "tmin": 3,
+    "precip_risk": "low"
+   },
+   {
+    "date": "2026-10-20",
+    "tmax": 12,
+    "tmin": 8,
+    "precip_risk": "medium"
+   },
+   {
+    "date": "2026-10-21",
+    "tmax": 10,
+    "tmin": 6,
+    "precip_risk": "high"
+   },
+   {
+    "date": "2026-10-22",
+    "tmax": 11,
+    "tmin": 4,
+    "precip_risk": "medium"
+   },
+   {
+    "date": "2026-10-23",
+    "tmax": 10,
+    "tmin": 4,
+    "precip_risk": "high"
+   }
+  ],
+  "obs": {
+   "tmax": 11.5,
+   "tmin": 2.7,
+   "precip": 0.0
+  }
+ },
+ "2026-10-18": {
+  "days": [
+   {
+    "date": "2026-10-18",
+    "tmax": 10.5,
+    "tmin": 1.5,
+    "precip_risk": "low"
+   },
+   {
+    "date": "2026-10-19",
+    "tmax": 12.0,
+    "tmin": 2.5,
+    "precip_risk": "low"
+   },
+   {
+    "date": "2026-10-20",
+    "tmax": 11.5,
+    "tmin": 8.5,
+    "precip_risk": "high"
+   },
+   {
+    "date": "2026-10-21",
+    "tmax": 10.3,
+    "tmin": 5.8,
+    "precip_risk": "high"
+   },
+   {
+    "date": "2026-10-22",
+    "tmax": 10.3,
+    "tmin": 4.0,
+    "precip_risk": "medium"
+   },
+   {
+    "date": "2026-10-23",
+    "tmax": 9.6,
+    "tmin": 4.5,
+    "precip_risk": "high"
+   },
+   {
+    "date": "2026-10-24",
+    "tmax": 10.0,
+    "tmin": 4.5,
+    "precip_risk": "high"
+   }
+  ],
+  "obs": {
+   "tmax": 11.3,
+   "tmin": 0.3,
+   "precip": 0.0
+  }
+ },
+ "2026-10-19": {
+  "days": [
+   {
+    "date": "2026-10-19",
+    "tmax": 11.0,
+    "tmin": 2.0,
+    "precip_risk": "low"
+   },
+   {
+    "date": "2026-10-20",
+    "tmax": 11.0,
+    "tmin": 8.5,
+    "precip_risk": "high"
+   },
+   {
+    "date": "2026-10-21",
+    "tmax": 11.0,
+    "tmin": 7.0,
+    "precip_risk": "high"
+   },
+   {
+    "date": "2026-10-22",
+    "tmax": 10.5,
+    "tmin": 4.5,
+    "precip_risk": "medium"
+   },
+   {
+    "date": "2026-10-23",
+    "tmax": 9.0,
+    "tmin": 4.5,
+    "precip_risk": "high"
+   },
+   {
+    "date": "2026-10-24",
+    "tmax": 9.5,
+    "tmin": 4.0,
+    "precip_risk": "medium"
+   },
+   {
+    "date": "2026-10-25",
+    "tmax": 11.0,
+    "tmin": 6.0,
+    "precip_risk": "high"
+   }
+  ],
+  "obs": {
+   "tmax": 12.6,
+   "tmin": 1.5,
+   "precip": 0.0
+  }
+ },
+ "2026-10-20": {
+  "days": [
+   {
+    "date": "2026-10-20",
+    "tmax": 11.5,
+    "tmin": 9,
+    "precip_risk": "medium"
+   },
+   {
+    "date": "2026-10-21",
+    "tmax": 11,
+    "tmin": 6,
+    "precip_risk": "high"
+   },
+   {
+    "date": "2026-10-22",
+    "tmax": 10.5,
+    "tmin": 3.5,
+    "precip_risk": "low"
+   },
+   {
+    "date": "2026-10-23",
+    "tmax": 10,
+    "tmin": 5,
+    "precip_risk": "high"
+   },
+   {
+    "date": "2026-10-24",
+    "tmax": 10.5,
+    "tmin": 4.5,
+    "precip_risk": "high"
+   },
+   {
+    "date": "2026-10-25",
+    "tmax": 10.5,
+    "tmin": 5,
+    "precip_risk": "high"
+   },
+   {
+    "date": "2026-10-26",
+    "tmax": 11.5,
+    "tmin": 5.5,
+    "precip_risk": "medium"
+   }
+  ],
+  "obs": {
+   "tmax": 12.2,
+   "tmin": 10.1,
+   "precip": 4.2
+  }
+ },
+ "2026-10-21": {
+  "days": [
+   {
+    "date": "2026-10-21",
+    "tmax": 12.0,
+    "tmin": 7.0,
+    "precip_risk": "high"
+   },
+   {
+    "date": "2026-10-22",
+    "tmax": 10.0,
+    "tmin": 4.0,
+    "precip_risk": "medium"
+   },
+   {
+    "date": "2026-10-23",
+    "tmax": 9.0,
+    "tmin": 4.5,
+    "precip_risk": "high"
+   },
+   {
+    "date": "2026-10-24",
+    "tmax": 11.0,
+    "tmin": 4.0,
+    "precip_risk": "high"
+   },
+   {
+    "date": "2026-10-25",
+    "tmax": 10.0,
+    "tmin": 6.0,
+    "precip_risk": "high"
+   },
+   {
+    "date": "2026-10-26",
+    "tmax": 13.5,
+    "tmin": 6.0,
+    "precip_risk": "high"
+   },
+   {
+    "date": "2026-10-27",
+    "tmax": 13.0,
+    "tmin": 6.5,
+    "precip_risk": "medium"
+   }
+  ],
+  "obs": {
+   "tmax": 12.4,
+   "tmin": 7.6,
+   "precip": 13.1
+  }
+ },
+ "2026-10-22": {
+  "days": [
+   {
+    "date": "2026-10-22",
+    "tmax": 10,
+    "tmin": 4,
+    "precip_risk": "low"
+   },
+   {
+    "date": "2026-10-23",
+    "tmax": 8,
+    "tmin": 3,
+    "precip_risk": "high"
+   },
+   {
+    "date": "2026-10-24",
+    "tmax": 12,
+    "tmin": 4,
+    "precip_risk": "high"
+   },
+   {
+    "date": "2026-10-25",
+    "tmax": 10,
+    "tmin": 6,
+    "precip_risk": "medium"
+   },
+   {
+    "date": "2026-10-26",
+    "tmax": 13,
+    "tmin": 6,
+    "precip_risk": "high"
+   },
+   {
+    "date": "2026-10-27",
+    "tmax": 14,
+    "tmin": 7,
+    "precip_risk": "medium"
+   },
+   {
+    "date": "2026-10-28",
+    "tmax": 12,
+    "tmin": 8,
+    "precip_risk": "medium"
+   }
+  ],
+  "obs": {
+   "tmax": 11.6,
+   "tmin": 2.4,
+   "precip": 1.7
+  }
+ },
+ "2026-10-23": {
+  "days": [
+   {
+    "date": "2026-10-23",
+    "tmax": 7,
+    "tmin": 3,
+    "precip_risk": "high"
+   },
+   {
+    "date": "2026-10-24",
+    "tmax": 11,
+    "tmin": 3,
+    "precip_risk": "high"
+   },
+   {
+    "date": "2026-10-25",
+    "tmax": 9,
+    "tmin": 6,
+    "precip_risk": "medium"
+   },
+   {
+    "date": "2026-10-26",
+    "tmax": 14,
+    "tmin": 6,
+    "precip_risk": "high"
+   },
+   {
+    "date": "2026-10-27",
+    "tmax": 14,
+    "tmin": 7,
+    "precip_risk": "medium"
+   },
+   {
+    "date": "2026-10-28",
+    "tmax": 12,
+    "tmin": 7,
+    "precip_risk": "medium"
+   },
+   {
+    "date": "2026-10-29",
+    "tmax": 13,
+    "tmin": 8,
+    "precip_risk": "low"
+   }
+  ],
+  "obs": {
+   "tmax": 7.6,
+   "tmin": 2.9,
+   "precip": 11.4
+  }
+ },
+ "2026-10-24": {
+  "days": [
+   {
+    "date": "2026-10-25",
+    "tmax": 10,
+    "tmin": 7,
+    "precip_risk": "high"
+   },
+   {
+    "date": "2026-10-26",
+    "tmax": 15.5,
+    "tmin": 7,
+    "precip_risk": "high"
+   },
+   {
+    "date": "2026-10-27",
+    "tmax": 15.5,
+    "tmin": 8,
+    "precip_risk": "high"
+   },
+   {
+    "date": "2026-10-28",
+    "tmax": 12.5,
+    "tmin": 7.5,
+    "precip_risk": "medium"
+   },
+   {
+    "date": "2026-10-29",
+    "tmax": 13.5,
+    "tmin": 8.5,
+    "precip_risk": "low"
+   },
+   {
+    "date": "2026-10-30",
+    "tmax": 12.5,
+    "tmin": 8,
+    "precip_risk": "medium"
+   },
+   {
+    "date": "2026-10-31",
+    "tmax": 11.5,
+    "tmin": 6,
+    "precip_risk": "medium"
+   }
+  ],
+  "obs": {
+   "tmax": 11.6,
+   "tmin": 3.7,
+   "precip": 15.2
+  }
+ },
+ "2026-10-25": {
+  "days": [
+   {
+    "date": "2026-10-25",
+    "tmax": 11,
+    "tmin": 7.5,
+    "precip_risk": "low",
+    "confidence": "high"
+   },
+   {
+    "date": "2026-10-26",
+    "tmax": 16,
+    "tmin": 7,
+    "precip_risk": "high",
+    "confidence": "high"
+   },
+   {
+    "date": "2026-10-27",
+    "tmax": 16,
+    "tmin": 6.5,
+    "precip_risk": "high",
+    "confidence": "medium"
+   },
+   {
+    "date": "2026-10-28",
+    "tmax": 13,
+    "tmin": 7,
+    "precip_risk": "medium",
+    "confidence": "medium"
+   },
+   {
+    "date": "2026-10-29",
+    "tmax": 14,
+    "tmin": 7.5,
+    "precip_risk": "low",
+    "confidence": "high"
+   },
+   {
+    "date": "2026-10-30",
+    "tmax": 13,
+    "tmin": 8,
+    "precip_risk": "medium",
+    "confidence": "medium"
+   },
+   {
+    "date": "2026-10-31",
+    "tmax": 11.5,
+    "tmin": 6,
+    "precip_risk": "medium",
+    "confidence": "medium"
+   }
+  ],
+  "models": {
+   "ECMWF HRES": [
+    {
+     "date": "2026-10-26",
+     "tmax": 14.7,
+     "tmin": 6.6,
+     "precip": 5.6
+    },
+    {
+     "date": "2026-10-27",
+     "tmax": 14.6,
+     "tmin": 7.2,
+     "precip": 6.0
+    },
+    {
+     "date": "2026-10-28",
+     "tmax": 11.6,
+     "tmin": 7.8,
+     "precip": 2.3
+    },
+    {
+     "date": "2026-10-29",
+     "tmax": 13.1,
+     "tmin": 6.7,
+     "precip": 0.2
+    },
+    {
+     "date": "2026-10-30",
+     "tmax": 13.3,
+     "tmin": 7.0,
+     "precip": 0.4
+    },
+    {
+     "date": "2026-10-31",
+     "tmax": 11.0,
+     "tmin": 6.0,
+     "precip": 6.3
+    },
+    {
+     "date": "2026-11-01",
+     "tmax": 9.9,
+     "tmin": 2.9,
+     "precip": 0.1
+    },
+    {
+     "date": "2026-11-02",
+     "tmax": 9.1,
+     "tmin": 2.1,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-03",
+     "tmax": 9.5,
+     "tmin": 1.5,
+     "precip": 0.0
+    }
+   ],
+   "ECMWF AIFS": [
+    {
+     "date": "2026-10-26",
+     "tmax": 15.9,
+     "tmin": 6.9,
+     "precip": 6.3
+    },
+    {
+     "date": "2026-10-27",
+     "tmax": 15.5,
+     "tmin": 8.2,
+     "precip": 7.2
+    },
+    {
+     "date": "2026-10-28",
+     "tmax": 12.4,
+     "tmin": 8.5,
+     "precip": 4.1
+    },
+    {
+     "date": "2026-10-29",
+     "tmax": 13.3,
+     "tmin": 9.3,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-10-30",
+     "tmax": 12.1,
+     "tmin": 9.2,
+     "precip": 1.3
+    },
+    {
+     "date": "2026-10-31",
+     "tmax": 9.9,
+     "tmin": 5.9,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-01",
+     "tmax": 9.5,
+     "tmin": 4.9,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-02",
+     "tmax": 10.3,
+     "tmin": 4.8,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-03",
+     "tmax": 8.8,
+     "tmin": 4.6,
+     "precip": 0.0
+    }
+   ],
+   "UKMO": [
+    {
+     "date": "2026-10-26",
+     "tmax": 15.7,
+     "tmin": 7.2,
+     "precip": 4.8
+    },
+    {
+     "date": "2026-10-27",
+     "tmax": 15.7,
+     "tmin": 5.9,
+     "precip": 7.33
+    },
+    {
+     "date": "2026-10-28",
+     "tmax": 11.7,
+     "tmin": 8.4,
+     "precip": 0.6
+    },
+    {
+     "date": "2026-10-29",
+     "tmax": 14.0,
+     "tmin": 7.4,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-10-30",
+     "tmax": 13.0,
+     "tmin": 9.0,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-10-31",
+     "tmax": 10.3,
+     "tmin": 7.2,
+     "precip": 0.0
+    }
+   ],
+   "GFS": [
+    {
+     "date": "2026-10-26",
+     "tmax": 14.9,
+     "tmin": 7.2,
+     "precip": 1.8
+    },
+    {
+     "date": "2026-10-27",
+     "tmax": 15.6,
+     "tmin": 7.9,
+     "precip": 2.3
+    },
+    {
+     "date": "2026-10-28",
+     "tmax": 13.7,
+     "tmin": 7.9,
+     "precip": 0.7
+    },
+    {
+     "date": "2026-10-29",
+     "tmax": 14.2,
+     "tmin": 8.8,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-10-30",
+     "tmax": 11.4,
+     "tmin": 7.8,
+     "precip": 6.8
+    },
+    {
+     "date": "2026-10-31",
+     "tmax": 10.3,
+     "tmin": 6.7,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-01",
+     "tmax": 10.8,
+     "tmin": 5.9,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-02",
+     "tmax": 13.7,
+     "tmin": 9.3,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-03",
+     "tmax": 11.8,
+     "tmin": 7.1,
+     "precip": 0.0
+    }
+   ],
+   "ICON": [
+    {
+     "date": "2026-10-26",
+     "tmax": 16.4,
+     "tmin": 7.6,
+     "precip": 4.47
+    },
+    {
+     "date": "2026-10-27",
+     "tmax": 16.4,
+     "tmin": 8.0,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-10-28",
+     "tmax": 12.6,
+     "tmin": 8.0,
+     "precip": 1.5
+    },
+    {
+     "date": "2026-10-29",
+     "tmax": 13.8,
+     "tmin": 6.1,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-10-30",
+     "tmax": 13.6,
+     "tmin": 5.7,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-10-31",
+     "tmax": 11.3,
+     "tmin": 7.8,
+     "precip": 2.1
+    },
+    {
+     "date": "2026-11-01",
+     "tmax": 10.7,
+     "tmin": 9.2,
+     "precip": 0.0
+    }
+   ],
+   "GEM": [
+    {
+     "date": "2026-10-26",
+     "tmax": 15.0,
+     "tmin": 7.2,
+     "precip": 5.9
+    },
+    {
+     "date": "2026-10-27",
+     "tmax": 15.6,
+     "tmin": 8.2,
+     "precip": 3.3
+    },
+    {
+     "date": "2026-10-28",
+     "tmax": 13.6,
+     "tmin": 8.4,
+     "precip": 0.5
+    },
+    {
+     "date": "2026-10-29",
+     "tmax": 14.0,
+     "tmin": 9.3,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-10-30",
+     "tmax": 13.0,
+     "tmin": 10.6,
+     "precip": 1.4
+    },
+    {
+     "date": "2026-10-31",
+     "tmax": 11.8,
+     "tmin": 7.3,
+     "precip": 2.8
+    },
+    {
+     "date": "2026-11-01",
+     "tmax": 10.4,
+     "tmin": 5.8,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-02",
+     "tmax": 9.4,
+     "tmin": 3.8,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-03",
+     "tmax": 10.2,
+     "tmin": 3.5,
+     "precip": 0.0
+    }
+   ],
+   "ARPEGE": [
+    {
+     "date": "2026-10-26",
+     "tmax": 15.2,
+     "tmin": 7.0,
+     "precip": 2.8
+    },
+    {
+     "date": "2026-10-27",
+     "tmax": 15.5,
+     "tmin": 8.0,
+     "precip": 1.7
+    },
+    {
+     "date": "2026-10-28",
+     "tmax": 11.5,
+     "tmin": 8.1,
+     "precip": 1.8
+    },
+    {
+     "date": "2026-10-29",
+     "tmax": 14.1,
+     "tmin": 10.5,
+     "precip": 0.0
+    }
+   ],
+   "NOAA AIGFS": [
+    {
+     "date": "2026-10-26",
+     "tmax": 16.0,
+     "tmin": 6.8,
+     "precip": 3.8
+    },
+    {
+     "date": "2026-10-27",
+     "tmax": 15.8,
+     "tmin": 7.9,
+     "precip": 2.5
+    },
+    {
+     "date": "2026-10-28",
+     "tmax": 12.5,
+     "tmin": 8.3,
+     "precip": 0.1
+    },
+    {
+     "date": "2026-10-29",
+     "tmax": 12.5,
+     "tmin": 8.0,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-10-30",
+     "tmax": 12.2,
+     "tmin": 8.0,
+     "precip": 0.7
+    },
+    {
+     "date": "2026-10-31",
+     "tmax": 12.2,
+     "tmin": 6.5,
+     "precip": 2.2
+    },
+    {
+     "date": "2026-11-01",
+     "tmax": 9.9,
+     "tmin": 5.3,
+     "precip": 0.1
+    },
+    {
+     "date": "2026-11-02",
+     "tmax": 11.1,
+     "tmin": 5.5,
+     "precip": 0.3
+    },
+    {
+     "date": "2026-11-03",
+     "tmax": 9.0,
+     "tmin": 6.1,
+     "precip": 0.1
+    }
+   ]
+  },
+  "blend": [
+   {
+    "date": "2026-10-25",
+    "tmax": 10.2,
+    "tmin": 7.3,
+    "precip": 6.2
+   },
+   {
+    "date": "2026-10-26",
+    "tmax": 16.3,
+    "tmin": 7.0,
+    "precip": 4.6
+   },
+   {
+    "date": "2026-10-27",
+    "tmax": 16.4,
+    "tmin": 7.6,
+    "precip": 2.9
+   },
+   {
+    "date": "2026-10-28",
+    "tmax": 13.2,
+    "tmin": 8.0,
+    "precip": 1.1
+   },
+   {
+    "date": "2026-10-29",
+    "tmax": 14.4,
+    "tmin": 7.9,
+    "precip": 0.0
+   },
+   {
+    "date": "2026-10-30",
+    "tmax": 13.5,
+    "tmin": 7.9,
+    "precip": 0.7
+   },
+   {
+    "date": "2026-10-31",
+    "tmax": 11.7,
+    "tmin": 6.6,
+    "precip": 2.1
+   },
+   {
+    "date": "2026-11-01",
+    "tmax": 10.8,
+    "tmin": 4.8,
+    "precip": 0.0
+   },
+   {
+    "date": "2026-11-02",
+    "tmax": 11.6,
+    "tmin": 5.0,
+    "precip": 0.0
+   },
+   {
+    "date": "2026-11-03",
+    "tmax": 10.6,
+    "tmin": 4.4,
+    "precip": 0.0
+   }
+  ],
+  "calls": {
+   "ssw_risk": "medium",
+   "cold_winter_chance": "low",
+   "model": "claude-opus-5-5",
+   "headline": "No warnings are in force. Monday turns very mild and wet, Tuesday brings a squally gale (gusts about 75-90 km/h around midday), and a strong, dry high then takes over from Thursday into early November. Meanwhile the polar vortex heads for record weakness, with roughly even odds of a brief reversal around 3-10 Nov."
+  }
+ },
+ "2026-10-26": {
+  "models": {
+   "ECMWF HRES": [
+    {
+     "date": "2026-10-27",
+     "tmax": 14.5,
+     "tmin": 7.2,
+     "precip": 5.8
+    },
+    {
+     "date": "2026-10-28",
+     "tmax": 11.8,
+     "tmin": 8.0,
+     "precip": 5.3
+    },
+    {
+     "date": "2026-10-29",
+     "tmax": 13.0,
+     "tmin": 8.7,
+     "precip": 0.2
+    },
+    {
+     "date": "2026-10-30",
+     "tmax": 13.1,
+     "tmin": 9.8,
+     "precip": 0.7
+    },
+    {
+     "date": "2026-10-31",
+     "tmax": 13.7,
+     "tmin": 6.7,
+     "precip": 11.5
+    },
+    {
+     "date": "2026-11-01",
+     "tmax": 10.1,
+     "tmin": 4.9,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-02",
+     "tmax": 11.5,
+     "tmin": 4.0,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-03",
+     "tmax": 8.9,
+     "tmin": 4.0,
+     "precip": 0.2
+    },
+    {
+     "date": "2026-11-04",
+     "tmax": 10.9,
+     "tmin": 5.9,
+     "precip": 0.0
+    }
+   ],
+   "ECMWF AIFS": [
+    {
+     "date": "2026-10-27",
+     "tmax": 16.0,
+     "tmin": 8.2,
+     "precip": 7.6
+    },
+    {
+     "date": "2026-10-28",
+     "tmax": 12.3,
+     "tmin": 8.5,
+     "precip": 4.4
+    },
+    {
+     "date": "2026-10-29",
+     "tmax": 13.9,
+     "tmin": 10.1,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-10-30",
+     "tmax": 13.6,
+     "tmin": 9.7,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-10-31",
+     "tmax": 13.9,
+     "tmin": 10.5,
+     "precip": 0.1
+    },
+    {
+     "date": "2026-11-01",
+     "tmax": 11.3,
+     "tmin": 6.9,
+     "precip": 0.2
+    },
+    {
+     "date": "2026-11-02",
+     "tmax": 9.8,
+     "tmin": 4.5,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-03",
+     "tmax": 8.7,
+     "tmin": 3.3,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-04",
+     "tmax": 9.2,
+     "tmin": 3.4,
+     "precip": 0.0
+    }
+   ],
+   "UKMO": [
+    {
+     "date": "2026-10-27",
+     "tmax": 15.8,
+     "tmin": 7.5,
+     "precip": 4.4
+    },
+    {
+     "date": "2026-10-28",
+     "tmax": 12.8,
+     "tmin": 8.2,
+     "precip": 2.5
+    },
+    {
+     "date": "2026-10-29",
+     "tmax": 13.7,
+     "tmin": 10.3,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-10-30",
+     "tmax": 13.8,
+     "tmin": 10.3,
+     "precip": 0.2
+    },
+    {
+     "date": "2026-10-31",
+     "tmax": 11.5,
+     "tmin": 10.0,
+     "precip": 5.5
+    },
+    {
+     "date": "2026-11-01",
+     "tmax": 10.5,
+     "tmin": 6.0,
+     "precip": 2.7
+    }
+   ],
+   "GFS": [
+    {
+     "date": "2026-10-27",
+     "tmax": 15.4,
+     "tmin": 8.1,
+     "precip": 2.0
+    },
+    {
+     "date": "2026-10-28",
+     "tmax": 12.8,
+     "tmin": 8.2,
+     "precip": 0.8
+    },
+    {
+     "date": "2026-10-29",
+     "tmax": 14.2,
+     "tmin": 9.4,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-10-30",
+     "tmax": 11.9,
+     "tmin": 9.3,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-10-31",
+     "tmax": 12.6,
+     "tmin": 8.5,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-01",
+     "tmax": 10.9,
+     "tmin": 6.6,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-02",
+     "tmax": 12.1,
+     "tmin": 6.6,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-03",
+     "tmax": 12.0,
+     "tmin": 6.5,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-04",
+     "tmax": 11.0,
+     "tmin": 6.3,
+     "precip": 0.0
+    }
+   ],
+   "ICON": [
+    {
+     "date": "2026-10-27",
+     "tmax": 16.5,
+     "tmin": 8.5,
+     "precip": 4.2
+    },
+    {
+     "date": "2026-10-28",
+     "tmax": 13.7,
+     "tmin": 8.6,
+     "precip": 0.4
+    },
+    {
+     "date": "2026-10-29",
+     "tmax": 15.0,
+     "tmin": 8.6,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-10-30",
+     "tmax": 13.3,
+     "tmin": 8.9,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-10-31",
+     "tmax": 13.9,
+     "tmin": 7.1,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-01",
+     "tmax": 9.9,
+     "tmin": 3.0,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-02",
+     "tmax": 8.9,
+     "tmin": 2.3,
+     "precip": 0.0
+    }
+   ],
+   "GEM": [
+    {
+     "date": "2026-10-27",
+     "tmax": 16.2,
+     "tmin": 7.9,
+     "precip": 0.8
+    },
+    {
+     "date": "2026-10-28",
+     "tmax": 12.3,
+     "tmin": 7.9,
+     "precip": 2.3
+    },
+    {
+     "date": "2026-10-29",
+     "tmax": 14.4,
+     "tmin": 9.3,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-10-30",
+     "tmax": 13.2,
+     "tmin": 10.6,
+     "precip": 0.4
+    },
+    {
+     "date": "2026-10-31",
+     "tmax": 11.9,
+     "tmin": 7.3,
+     "precip": 2.9
+    },
+    {
+     "date": "2026-11-01",
+     "tmax": 10.0,
+     "tmin": 5.7,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-02",
+     "tmax": 10.0,
+     "tmin": 3.8,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-03",
+     "tmax": 9.1,
+     "tmin": 2.2,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-04",
+     "tmax": 9.5,
+     "tmin": 4.1,
+     "precip": 0.0
+    }
+   ],
+   "ARPEGE": [
+    {
+     "date": "2026-10-27",
+     "tmax": 15.5,
+     "tmin": 8.1,
+     "precip": 0.2
+    },
+    {
+     "date": "2026-10-28",
+     "tmax": 12.4,
+     "tmin": 8.0,
+     "precip": 0.4
+    },
+    {
+     "date": "2026-10-29",
+     "tmax": 13.8,
+     "tmin": 9.1,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-10-30",
+     "tmax": 12.6,
+     "tmin": 6.6,
+     "precip": 0.0
+    }
+   ],
+   "NOAA AIGFS": [
+    {
+     "date": "2026-10-27",
+     "tmax": 16.0,
+     "tmin": 8.4,
+     "precip": 1.3
+    },
+    {
+     "date": "2026-10-28",
+     "tmax": 12.6,
+     "tmin": 8.7,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-10-29",
+     "tmax": 13.7,
+     "tmin": 9.5,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-10-30",
+     "tmax": 12.6,
+     "tmin": 9.3,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-10-31",
+     "tmax": 12.7,
+     "tmin": 11.0,
+     "precip": 1.8
+    },
+    {
+     "date": "2026-11-01",
+     "tmax": 11.0,
+     "tmin": 7.7,
+     "precip": 2.6
+    },
+    {
+     "date": "2026-11-02",
+     "tmax": 9.4,
+     "tmin": 6.3,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-03",
+     "tmax": 7.7,
+     "tmin": 5.4,
+     "precip": 0.1
+    },
+    {
+     "date": "2026-11-04",
+     "tmax": 8.4,
+     "tmin": 5.1,
+     "precip": 0.0
+    }
+   ]
+  },
+  "blend": [
+   {
+    "date": "2026-10-26",
+    "tmax": 16.4,
+    "tmin": 7.3,
+    "precip": 3.9
+   },
+   {
+    "date": "2026-10-27",
+    "tmax": 16.6,
+    "tmin": 7.9,
+    "precip": 3.1
+   },
+   {
+    "date": "2026-10-28",
+    "tmax": 13.4,
+    "tmin": 8.1,
+    "precip": 1.5
+   },
+   {
+    "date": "2026-10-29",
+    "tmax": 14.8,
+    "tmin": 9.1,
+    "precip": 0.0
+   },
+   {
+    "date": "2026-10-30",
+    "tmax": 13.8,
+    "tmin": 9.0,
+    "precip": 0.0
+   },
+   {
+    "date": "2026-10-31",
+    "tmax": 13.8,
+    "tmin": 8.5,
+    "precip": 1.8
+   },
+   {
+    "date": "2026-11-01",
+    "tmax": 11.3,
+    "tmin": 5.4,
+    "precip": 0.0
+   },
+   {
+    "date": "2026-11-02",
+    "tmax": 11.3,
+    "tmin": 4.6,
+    "precip": 0.0
+   },
+   {
+    "date": "2026-11-03",
+    "tmax": 10.1,
+    "tmin": 3.8,
+    "precip": 0.0
+   },
+   {
+    "date": "2026-11-04",
+    "tmax": 10.5,
+    "tmin": 4.4,
+    "precip": 0.0
+   }
+  ],
+  "days": [
+   {
+    "date": "2026-10-27",
+    "tmax": 16,
+    "tmin": 7.5,
+    "precip_risk": "high",
+    "confidence": "high"
+   },
+   {
+    "date": "2026-10-28",
+    "tmax": 13,
+    "tmin": 8,
+    "precip_risk": "medium",
+    "confidence": "medium"
+   },
+   {
+    "date": "2026-10-29",
+    "tmax": 14.5,
+    "tmin": 9,
+    "precip_risk": "low",
+    "confidence": "high"
+   },
+   {
+    "date": "2026-10-30",
+    "tmax": 13.5,
+    "tmin": 9,
+    "precip_risk": "medium",
+    "confidence": "medium"
+   },
+   {
+    "date": "2026-10-31",
+    "tmax": 13,
+    "tmin": 8,
+    "precip_risk": "medium",
+    "confidence": "low"
+   },
+   {
+    "date": "2026-11-01",
+    "tmax": 11,
+    "tmin": 5,
+    "precip_risk": "low",
+    "confidence": "medium"
+   },
+   {
+    "date": "2026-11-02",
+    "tmax": 10.5,
+    "tmin": 3,
+    "precip_risk": "low",
+    "confidence": "medium"
+   }
+  ],
+  "calls": {
+   "ssw_risk": "medium",
+   "cold_winter_chance": "low",
+   "model": "claude-opus-5-5",
+   "headline": "A Met Office yellow wind warning covers Edinburgh from 03:00 to 21:00 on Tuesday 27 Oct, with gusts of 65-80 km/h; the airport was already gusting 65 km/h before 23:00. From Thursday a strong high brings a long, dry, calm and often foggy spell to about 8 November. Meanwhile the polar vortex weakens far below its record low for the date, with about a 35-50% chance of a brief reversal around 4-10 Nov."
+  }
+ },
+ "2026-10-27": {
+  "models": {
+   "ECMWF HRES": [
+    {
+     "date": "2026-10-28",
+     "tmax": 11.9,
+     "tmin": 7.8,
+     "precip": 6.1
+    },
+    {
+     "date": "2026-10-29",
+     "tmax": 13.4,
+     "tmin": 8.4,
+     "precip": 0.4
+    },
+    {
+     "date": "2026-10-30",
+     "tmax": 12.9,
+     "tmin": 9.7,
+     "precip": 0.2
+    },
+    {
+     "date": "2026-10-31",
+     "tmax": 12.4,
+     "tmin": 9.2,
+     "precip": 9.8
+    },
+    {
+     "date": "2026-11-01",
+     "tmax": 10.1,
+     "tmin": 4.0,
+     "precip": 0.2
+    },
+    {
+     "date": "2026-11-02",
+     "tmax": 11.5,
+     "tmin": 4.0,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-03",
+     "tmax": 8.9,
+     "tmin": 4.0,
+     "precip": 0.2
+    },
+    {
+     "date": "2026-11-04",
+     "tmax": 10.9,
+     "tmin": 5.9,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-05",
+     "tmax": 9.6,
+     "tmin": 4.2,
+     "precip": 0.0
+    }
+   ],
+   "ECMWF AIFS": [
+    {
+     "date": "2026-10-28",
+     "tmax": 12.6,
+     "tmin": 8.6,
+     "precip": 3.8
+    },
+    {
+     "date": "2026-10-29",
+     "tmax": 14.0,
+     "tmin": 9.9,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-10-30",
+     "tmax": 13.5,
+     "tmin": 8.9,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-10-31",
+     "tmax": 13.1,
+     "tmin": 7.2,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-01",
+     "tmax": 11.2,
+     "tmin": 6.1,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-02",
+     "tmax": 9.7,
+     "tmin": 4.5,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-03",
+     "tmax": 8.5,
+     "tmin": 3.9,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-04",
+     "tmax": 9.2,
+     "tmin": 5.2,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-05",
+     "tmax": 8.8,
+     "tmin": 3.7,
+     "precip": 0.0
+    }
+   ],
+   "UKMO": [
+    {
+     "date": "2026-10-28",
+     "tmax": 13.4,
+     "tmin": 8.2,
+     "precip": 1.1
+    },
+    {
+     "date": "2026-10-29",
+     "tmax": 13.7,
+     "tmin": 9.5,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-10-30",
+     "tmax": 13.8,
+     "tmin": 10.3,
+     "precip": 0.2
+    },
+    {
+     "date": "2026-10-31",
+     "tmax": 11.5,
+     "tmin": 10.0,
+     "precip": 5.5
+    },
+    {
+     "date": "2026-11-01",
+     "tmax": 10.5,
+     "tmin": 6.0,
+     "precip": 2.7
+    }
+   ],
+   "GFS": [
+    {
+     "date": "2026-10-28",
+     "tmax": 12.6,
+     "tmin": 8.3,
+     "precip": 1.4
+    },
+    {
+     "date": "2026-10-29",
+     "tmax": 14.4,
+     "tmin": 8.4,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-10-30",
+     "tmax": 12.4,
+     "tmin": 8.1,
+     "precip": 0.5
+    },
+    {
+     "date": "2026-10-31",
+     "tmax": 12.1,
+     "tmin": 7.9,
+     "precip": 0.2
+    },
+    {
+     "date": "2026-11-01",
+     "tmax": 11.3,
+     "tmin": 6.6,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-02",
+     "tmax": 11.5,
+     "tmin": 6.0,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-03",
+     "tmax": 12.0,
+     "tmin": 6.4,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-04",
+     "tmax": 11.1,
+     "tmin": 6.0,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-05",
+     "tmax": 11.9,
+     "tmin": 5.9,
+     "precip": 0.0
+    }
+   ],
+   "ICON": [
+    {
+     "date": "2026-10-28",
+     "tmax": 13.5,
+     "tmin": 8.5,
+     "precip": 0.8
+    },
+    {
+     "date": "2026-10-29",
+     "tmax": 14.9,
+     "tmin": 8.8,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-10-30",
+     "tmax": 13.3,
+     "tmin": 7.1,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-10-31",
+     "tmax": 13.2,
+     "tmin": 6.3,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-01",
+     "tmax": 10.8,
+     "tmin": 5.7,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-02",
+     "tmax": 9.3,
+     "tmin": 3.2,
+     "precip": 0.0
+    }
+   ],
+   "GEM": [
+    {
+     "date": "2026-10-28",
+     "tmax": 12.7,
+     "tmin": 8.1,
+     "precip": 2.2
+    },
+    {
+     "date": "2026-10-29",
+     "tmax": 14.7,
+     "tmin": 9.1,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-10-30",
+     "tmax": 13.2,
+     "tmin": 9.8,
+     "precip": 0.5
+    },
+    {
+     "date": "2026-10-31",
+     "tmax": 12.1,
+     "tmin": 10.6,
+     "precip": 5.0
+    },
+    {
+     "date": "2026-11-01",
+     "tmax": 11.1,
+     "tmin": 7.3,
+     "precip": 2.6
+    },
+    {
+     "date": "2026-11-02",
+     "tmax": 8.0,
+     "tmin": 4.1,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-03",
+     "tmax": 8.6,
+     "tmin": 2.7,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-04",
+     "tmax": 9.2,
+     "tmin": 2.5,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-05",
+     "tmax": 8.6,
+     "tmin": 3.8,
+     "precip": 0.0
+    }
+   ],
+   "ARPEGE": [
+    {
+     "date": "2026-10-28",
+     "tmax": 12.4,
+     "tmin": 8.1,
+     "precip": 0.9
+    },
+    {
+     "date": "2026-10-29",
+     "tmax": 13.6,
+     "tmin": 8.4,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-10-30",
+     "tmax": 12.3,
+     "tmin": 8.1,
+     "precip": 0.0
+    }
+   ],
+   "NOAA AIGFS": [
+    {
+     "date": "2026-10-28",
+     "tmax": 12.5,
+     "tmin": 8.7,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-10-29",
+     "tmax": 13.5,
+     "tmin": 9.4,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-10-30",
+     "tmax": 12.4,
+     "tmin": 9.0,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-10-31",
+     "tmax": 12.6,
+     "tmin": 10.3,
+     "precip": 0.2
+    },
+    {
+     "date": "2026-11-01",
+     "tmax": 11.4,
+     "tmin": 7.5,
+     "precip": 0.5
+    },
+    {
+     "date": "2026-11-02",
+     "tmax": 9.2,
+     "tmin": 5.6,
+     "precip": 0.1
+    },
+    {
+     "date": "2026-11-03",
+     "tmax": 7.7,
+     "tmin": 4.2,
+     "precip": 0.1
+    },
+    {
+     "date": "2026-11-04",
+     "tmax": 7.4,
+     "tmin": 3.3,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-05",
+     "tmax": 9.2,
+     "tmin": 4.3,
+     "precip": 0.0
+    }
+   ]
+  },
+  "blend": [
+   {
+    "date": "2026-10-27",
+    "tmax": 16.5,
+    "tmin": 8.0,
+    "precip": 3.1
+   },
+   {
+    "date": "2026-10-28",
+    "tmax": 13.6,
+    "tmin": 8.2,
+    "precip": 1.2
+   },
+   {
+    "date": "2026-10-29",
+    "tmax": 14.9,
+    "tmin": 8.9,
+    "precip": 0.0
+   },
+   {
+    "date": "2026-10-30",
+    "tmax": 13.8,
+    "tmin": 8.4,
+    "precip": 0.1
+   },
+   {
+    "date": "2026-10-31",
+    "tmax": 13.2,
+    "tmin": 8.1,
+    "precip": 0.2
+   },
+   {
+    "date": "2026-11-01",
+    "tmax": 11.6,
+    "tmin": 5.8,
+    "precip": 0.2
+   },
+   {
+    "date": "2026-11-02",
+    "tmax": 10.7,
+    "tmin": 4.3,
+    "precip": 0.0
+   },
+   {
+    "date": "2026-11-03",
+    "tmax": 9.9,
+    "tmin": 4.0,
+    "precip": 0.0
+   },
+   {
+    "date": "2026-11-04",
+    "tmax": 10.2,
+    "tmin": 4.3,
+    "precip": 0.0
+   },
+   {
+    "date": "2026-11-05",
+    "tmax": 10.3,
+    "tmin": 4.0,
+    "precip": 0.0
+   }
+  ],
+  "days": [
+   {
+    "date": "2026-10-27",
+    "tmax": 16,
+    "tmin": 7.5,
+    "precip_risk": "high",
+    "confidence": "high"
+   },
+   {
+    "date": "2026-10-28",
+    "tmax": 13.5,
+    "tmin": 8,
+    "precip_risk": "medium",
+    "confidence": "medium"
+   },
+   {
+    "date": "2026-10-29",
+    "tmax": 14.5,
+    "tmin": 9,
+    "precip_risk": "low",
+    "confidence": "high"
+   },
+   {
+    "date": "2026-10-30",
+    "tmax": 13.5,
+    "tmin": 9,
+    "precip_risk": "low",
+    "confidence": "medium"
+   },
+   {
+    "date": "2026-10-31",
+    "tmax": 13,
+    "tmin": 8,
+    "precip_risk": "medium",
+    "confidence": "low"
+   },
+   {
+    "date": "2026-11-01",
+    "tmax": 11,
+    "tmin": 5,
+    "precip_risk": "low",
+    "confidence": "medium"
+   },
+   {
+    "date": "2026-11-02",
+    "tmax": 10,
+    "tmin": 3,
+    "precip_risk": "low",
+    "confidence": "medium"
+   }
+  ],
+  "calls": {
+   "ssw_risk": "high",
+   "cold_winter_chance": "low",
+   "model": "claude-opus-5-5",
+   "headline": "A Met Office yellow wind warning runs until 21:00 today, with gusts near 80 km/h. High pressure then brings a mostly dry, calm and often foggy spell from Thursday to about 7 November. Meanwhile most ensembles now reverse the polar vortex briefly around 4-9 November."
+  }
+ },
+ "2026-10-28": {
+  "models": {
+   "ECMWF HRES": [
+    {
+     "date": "2026-10-29",
+     "tmax": 13.6,
+     "tmin": 9.6,
+     "precip": 0.1
+    },
+    {
+     "date": "2026-10-30",
+     "tmax": 12.2,
+     "tmin": 8.3,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-10-31",
+     "tmax": 12.5,
+     "tmin": 6.8,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-01",
+     "tmax": 10.5,
+     "tmin": 5.0,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-02",
+     "tmax": 9.2,
+     "tmin": 3.8,
+     "precip": 0.2
+    },
+    {
+     "date": "2026-11-03",
+     "tmax": 9.8,
+     "tmin": 4.2,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-04",
+     "tmax": 10.0,
+     "tmin": 2.1,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-05",
+     "tmax": 9.9,
+     "tmin": 4.2,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-06",
+     "tmax": 9.1,
+     "tmin": 1.8,
+     "precip": 0.0
+    }
+   ],
+   "ECMWF AIFS": [
+    {
+     "date": "2026-10-29",
+     "tmax": 14.2,
+     "tmin": 9.8,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-10-30",
+     "tmax": 13.4,
+     "tmin": 9.1,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-10-31",
+     "tmax": 13.3,
+     "tmin": 7.9,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-01",
+     "tmax": 10.7,
+     "tmin": 5.8,
+     "precip": 0.6
+    },
+    {
+     "date": "2026-11-02",
+     "tmax": 9.0,
+     "tmin": 4.9,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-03",
+     "tmax": 10.0,
+     "tmin": 7.3,
+     "precip": 0.4
+    },
+    {
+     "date": "2026-11-04",
+     "tmax": 10.3,
+     "tmin": 6.9,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-05",
+     "tmax": 10.5,
+     "tmin": 7.4,
+     "precip": 0.2
+    },
+    {
+     "date": "2026-11-06",
+     "tmax": 9.8,
+     "tmin": 6.2,
+     "precip": 0.0
+    }
+   ],
+   "UKMO": [
+    {
+     "date": "2026-10-29",
+     "tmax": 14.0,
+     "tmin": 9.4,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-10-30",
+     "tmax": 13.3,
+     "tmin": 8.6,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-10-31",
+     "tmax": 11.9,
+     "tmin": 10.5,
+     "precip": 3.0
+    },
+    {
+     "date": "2026-11-01",
+     "tmax": 10.5,
+     "tmin": 6.1,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-02",
+     "tmax": 8.0,
+     "tmin": 3.3,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-03",
+     "tmax": 7.7,
+     "tmin": 3.7,
+     "precip": 0.0
+    }
+   ],
+   "GFS": [
+    {
+     "date": "2026-10-29",
+     "tmax": 14.4,
+     "tmin": 9.0,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-10-30",
+     "tmax": 13.4,
+     "tmin": 7.5,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-10-31",
+     "tmax": 13.9,
+     "tmin": 9.9,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-01",
+     "tmax": 12.8,
+     "tmin": 7.8,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-02",
+     "tmax": 12.4,
+     "tmin": 6.7,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-03",
+     "tmax": 11.9,
+     "tmin": 6.7,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-04",
+     "tmax": 10.0,
+     "tmin": 5.8,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-05",
+     "tmax": 8.8,
+     "tmin": 4.5,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-06",
+     "tmax": 8.9,
+     "tmin": 3.8,
+     "precip": 0.0
+    }
+   ],
+   "ICON": [
+    {
+     "date": "2026-10-29",
+     "tmax": 15.2,
+     "tmin": 8.5,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-10-30",
+     "tmax": 13.3,
+     "tmin": 7.6,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-10-31",
+     "tmax": 13.2,
+     "tmin": 8.5,
+     "precip": 0.3
+    },
+    {
+     "date": "2026-11-01",
+     "tmax": 11.0,
+     "tmin": 3.9,
+     "precip": 1.2
+    },
+    {
+     "date": "2026-11-02",
+     "tmax": 9.5,
+     "tmin": 2.9,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-03",
+     "tmax": 9.3,
+     "tmin": 3.0,
+     "precip": 0.0
+    }
+   ],
+   "GEM": [
+    {
+     "date": "2026-10-29",
+     "tmax": 15.3,
+     "tmin": 10.2,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-10-30",
+     "tmax": 13.9,
+     "tmin": 7.3,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-10-31",
+     "tmax": 13.4,
+     "tmin": 7.6,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-01",
+     "tmax": 10.4,
+     "tmin": 8.7,
+     "precip": 1.5
+    },
+    {
+     "date": "2026-11-02",
+     "tmax": 9.5,
+     "tmin": 6.3,
+     "precip": 0.2
+    },
+    {
+     "date": "2026-11-03",
+     "tmax": 10.2,
+     "tmin": 9.0,
+     "precip": 3.1
+    },
+    {
+     "date": "2026-11-04",
+     "tmax": 9.9,
+     "tmin": 9.1,
+     "precip": 0.5
+    },
+    {
+     "date": "2026-11-05",
+     "tmax": 9.7,
+     "tmin": 9.0,
+     "precip": 2.2
+    },
+    {
+     "date": "2026-11-06",
+     "tmax": 10.2,
+     "tmin": 9.0,
+     "precip": 0.0
+    }
+   ],
+   "ARPEGE": [
+    {
+     "date": "2026-10-29",
+     "tmax": 13.9,
+     "tmin": 8.1,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-10-30",
+     "tmax": 13.9,
+     "tmin": 7.0,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-10-31",
+     "tmax": 12.4,
+     "tmin": 6.2,
+     "precip": 0.5
+    }
+   ],
+   "NOAA AIGFS": [
+    {
+     "date": "2026-10-29",
+     "tmax": 13.3,
+     "tmin": 8.6,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-10-30",
+     "tmax": 12.5,
+     "tmin": 8.2,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-10-31",
+     "tmax": 12.4,
+     "tmin": 8.9,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-01",
+     "tmax": 10.8,
+     "tmin": 7.3,
+     "precip": 0.8
+    },
+    {
+     "date": "2026-11-02",
+     "tmax": 10.2,
+     "tmin": 5.8,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-03",
+     "tmax": 9.5,
+     "tmin": 5.1,
+     "precip": 0.1
+    },
+    {
+     "date": "2026-11-04",
+     "tmax": 8.9,
+     "tmin": 5.7,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-05",
+     "tmax": 10.4,
+     "tmin": 6.8,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-06",
+     "tmax": 9.5,
+     "tmin": 6.8,
+     "precip": 0.0
+    }
+   ]
+  },
+  "blend": [
+   {
+    "date": "2026-10-28",
+    "tmax": 13.7,
+    "tmin": 8.3,
+    "precip": 0.5
+   },
+   {
+    "date": "2026-10-29",
+    "tmax": 15.1,
+    "tmin": 9.0,
+    "precip": 0.0
+   },
+   {
+    "date": "2026-10-30",
+    "tmax": 14.0,
+    "tmin": 7.8,
+    "precip": 0.0
+   },
+   {
+    "date": "2026-10-31",
+    "tmax": 13.7,
+    "tmin": 8.0,
+    "precip": 0.0
+   },
+   {
+    "date": "2026-11-01",
+    "tmax": 11.7,
+    "tmin": 5.9,
+    "precip": 0.6
+   },
+   {
+    "date": "2026-11-02",
+    "tmax": 10.3,
+    "tmin": 4.6,
+    "precip": 0.0
+   },
+   {
+    "date": "2026-11-03",
+    "tmax": 10.5,
+    "tmin": 5.5,
+    "precip": 0.0
+   },
+   {
+    "date": "2026-11-04",
+    "tmax": 10.5,
+    "tmin": 5.7,
+    "precip": 0.0
+   },
+   {
+    "date": "2026-11-05",
+    "tmax": 10.4,
+    "tmin": 5.9,
+    "precip": 0.0
+   },
+   {
+    "date": "2026-11-06",
+    "tmax": 10.1,
+    "tmin": 5.1,
+    "precip": 0.0
+   }
+  ],
+  "days": [
+   {
+    "date": "2026-10-28",
+    "tmax": 13.5,
+    "tmin": 9,
+    "precip_risk": "medium",
+    "confidence": "high"
+   },
+   {
+    "date": "2026-10-29",
+    "tmax": 14.5,
+    "tmin": 10,
+    "precip_risk": "low",
+    "confidence": "high"
+   },
+   {
+    "date": "2026-10-30",
+    "tmax": 13.5,
+    "tmin": 8.5,
+    "precip_risk": "low",
+    "confidence": "high"
+   },
+   {
+    "date": "2026-10-31",
+    "tmax": 13,
+    "tmin": 8,
+    "precip_risk": "medium",
+    "confidence": "medium"
+   },
+   {
+    "date": "2026-11-01",
+    "tmax": 11,
+    "tmin": 6,
+    "precip_risk": "medium",
+    "confidence": "medium"
+   },
+   {
+    "date": "2026-11-02",
+    "tmax": 10,
+    "tmin": 3,
+    "precip_risk": "low",
+    "confidence": "medium"
+   },
+   {
+    "date": "2026-11-03",
+    "tmax": 9.5,
+    "tmin": 3,
+    "precip_risk": "low",
+    "confidence": "medium"
+   }
+  ],
+  "calls": {
+   "ssw_risk": "high",
+   "cold_winter_chance": "low",
+   "model": "claude-opus-5-5",
+   "headline": "No warnings are in force. After a mild, mostly dry end to October, a very strong high (about 1040 hPa over Scotland) brings a dry, calm and often foggy spell with chilly nights from 2 to about 7 November. Above it, nearly every physics ensemble now reverses the polar vortex around 4-10 November."
+  }
+ },
+ "2026-10-29": {
+  "models": {
+   "ECMWF HRES": [
+    {
+     "date": "2026-10-30",
+     "tmax": 12.5,
+     "tmin": 8.4,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-10-31",
+     "tmax": 12.4,
+     "tmin": 7.0,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-01",
+     "tmax": 10.4,
+     "tmin": 5.1,
+     "precip": 0.6
+    },
+    {
+     "date": "2026-11-02",
+     "tmax": 9.4,
+     "tmin": 3.4,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-03",
+     "tmax": 10.1,
+     "tmin": 6.1,
+     "precip": 0.6
+    },
+    {
+     "date": "2026-11-04",
+     "tmax": 9.8,
+     "tmin": 7.3,
+     "precip": 0.2
+    },
+    {
+     "date": "2026-11-05",
+     "tmax": 8.4,
+     "tmin": 5.4,
+     "precip": 0.4
+    },
+    {
+     "date": "2026-11-06",
+     "tmax": 8.0,
+     "tmin": 3.7,
+     "precip": 0.2
+    },
+    {
+     "date": "2026-11-07",
+     "tmax": 7.5,
+     "tmin": 2.2,
+     "precip": 0.0
+    }
+   ],
+   "ECMWF AIFS": [
+    {
+     "date": "2026-10-30",
+     "tmax": 13.7,
+     "tmin": 9.5,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-10-31",
+     "tmax": 13.7,
+     "tmin": 9.3,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-01",
+     "tmax": 10.6,
+     "tmin": 4.7,
+     "precip": 0.2
+    },
+    {
+     "date": "2026-11-02",
+     "tmax": 8.9,
+     "tmin": 3.4,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-03",
+     "tmax": 9.6,
+     "tmin": 5.5,
+     "precip": 0.1
+    },
+    {
+     "date": "2026-11-04",
+     "tmax": 10.3,
+     "tmin": 6.7,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-05",
+     "tmax": 10.8,
+     "tmin": 7.1,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-06",
+     "tmax": 9.8,
+     "tmin": 6.4,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-07",
+     "tmax": 9.1,
+     "tmin": 5.2,
+     "precip": 0.5
+    }
+   ],
+   "UKMO": [
+    {
+     "date": "2026-10-30",
+     "tmax": 14.0,
+     "tmin": 8.5,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-10-31",
+     "tmax": 13.8,
+     "tmin": 7.9,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-01",
+     "tmax": 11.3,
+     "tmin": 6.4,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-02",
+     "tmax": 8.8,
+     "tmin": 3.8,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-03",
+     "tmax": 8.6,
+     "tmin": 3.8,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-04",
+     "tmax": 7.6,
+     "tmin": 3.1,
+     "precip": 0.0
+    }
+   ],
+   "GFS": [
+    {
+     "date": "2026-10-30",
+     "tmax": 14.1,
+     "tmin": 7.6,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-10-31",
+     "tmax": 14.3,
+     "tmin": 9.5,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-01",
+     "tmax": 11.5,
+     "tmin": 6.4,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-02",
+     "tmax": 9.5,
+     "tmin": 4.9,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-03",
+     "tmax": 9.8,
+     "tmin": 7.0,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-04",
+     "tmax": 9.6,
+     "tmin": 7.2,
+     "precip": 1.2
+    },
+    {
+     "date": "2026-11-05",
+     "tmax": 9.4,
+     "tmin": 7.3,
+     "precip": 0.9
+    },
+    {
+     "date": "2026-11-06",
+     "tmax": 8.2,
+     "tmin": 6.9,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-07",
+     "tmax": 8.1,
+     "tmin": 6.0,
+     "precip": 1.4
+    }
+   ],
+   "ICON": [
+    {
+     "date": "2026-10-30",
+     "tmax": 14.1,
+     "tmin": 7.1,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-10-31",
+     "tmax": 14.2,
+     "tmin": 7.6,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-01",
+     "tmax": 11.9,
+     "tmin": 5.5,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-02",
+     "tmax": 10.1,
+     "tmin": 2.9,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-03",
+     "tmax": 9.3,
+     "tmin": 5.3,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-04",
+     "tmax": 9.9,
+     "tmin": 7.1,
+     "precip": 0.6
+    },
+    {
+     "date": "2026-11-05",
+     "tmax": 8.8,
+     "tmin": 6.5,
+     "precip": 0.2
+    }
+   ],
+   "GEM": [
+    {
+     "date": "2026-10-30",
+     "tmax": 13.8,
+     "tmin": 7.9,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-10-31",
+     "tmax": 14.3,
+     "tmin": 10.4,
+     "precip": 0.2
+    },
+    {
+     "date": "2026-11-01",
+     "tmax": 11.4,
+     "tmin": 5.1,
+     "precip": 0.3
+    },
+    {
+     "date": "2026-11-02",
+     "tmax": 9.5,
+     "tmin": 5.8,
+     "precip": 0.4
+    },
+    {
+     "date": "2026-11-03",
+     "tmax": 10.1,
+     "tmin": 6.4,
+     "precip": 1.4
+    },
+    {
+     "date": "2026-11-04",
+     "tmax": 10.0,
+     "tmin": 6.4,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-05",
+     "tmax": 10.2,
+     "tmin": 7.1,
+     "precip": 0.3
+    },
+    {
+     "date": "2026-11-06",
+     "tmax": 10.6,
+     "tmin": 8.2,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-07",
+     "tmax": 10.8,
+     "tmin": 7.2,
+     "precip": 0.0
+    }
+   ],
+   "ARPEGE": [
+    {
+     "date": "2026-10-30",
+     "tmax": 13.8,
+     "tmin": 8.2,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-10-31",
+     "tmax": 12.7,
+     "tmin": 6.8,
+     "precip": 0.3
+    },
+    {
+     "date": "2026-11-01",
+     "tmax": 10.5,
+     "tmin": 4.9,
+     "precip": 0.0
+    }
+   ],
+   "NOAA AIGFS": [
+    {
+     "date": "2026-10-30",
+     "tmax": 13.1,
+     "tmin": 8.2,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-10-31",
+     "tmax": 13.1,
+     "tmin": 9.6,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-01",
+     "tmax": 10.4,
+     "tmin": 5.6,
+     "precip": 0.1
+    },
+    {
+     "date": "2026-11-02",
+     "tmax": 8.5,
+     "tmin": 4.2,
+     "precip": 0.1
+    },
+    {
+     "date": "2026-11-03",
+     "tmax": 8.8,
+     "tmin": 5.5,
+     "precip": 0.6
+    },
+    {
+     "date": "2026-11-04",
+     "tmax": 8.6,
+     "tmin": 5.3,
+     "precip": 0.5
+    },
+    {
+     "date": "2026-11-05",
+     "tmax": 8.2,
+     "tmin": 6.6,
+     "precip": 1.3
+    },
+    {
+     "date": "2026-11-06",
+     "tmax": 8.0,
+     "tmin": 6.4,
+     "precip": 1.2
+    },
+    {
+     "date": "2026-11-07",
+     "tmax": 8.4,
+     "tmin": 5.6,
+     "precip": 0.0
+    }
+   ]
+  },
+  "blend": [
+   {
+    "date": "2026-10-29",
+    "tmax": 15.1,
+    "tmin": 8.8,
+    "precip": 0.0
+   },
+   {
+    "date": "2026-10-30",
+    "tmax": 14.5,
+    "tmin": 7.8,
+    "precip": 0.0
+   },
+   {
+    "date": "2026-10-31",
+    "tmax": 14.5,
+    "tmin": 8.2,
+    "precip": 0.0
+   },
+   {
+    "date": "2026-11-01",
+    "tmax": 11.8,
+    "tmin": 5.1,
+    "precip": 0.1
+   },
+   {
+    "date": "2026-11-02",
+    "tmax": 10.1,
+    "tmin": 3.6,
+    "precip": 0.0
+   },
+   {
+    "date": "2026-11-03",
+    "tmax": 10.3,
+    "tmin": 5.3,
+    "precip": 0.1
+   },
+   {
+    "date": "2026-11-04",
+    "tmax": 10.2,
+    "tmin": 5.9,
+    "precip": 0.2
+   },
+   {
+    "date": "2026-11-05",
+    "tmax": 10.1,
+    "tmin": 6.1,
+    "precip": 0.4
+   },
+   {
+    "date": "2026-11-06",
+    "tmax": 9.5,
+    "tmin": 5.8,
+    "precip": 0.0
+   },
+   {
+    "date": "2026-11-07",
+    "tmax": 9.4,
+    "tmin": 4.7,
+    "precip": 0.0
+   }
+  ],
+  "days": [
+   {
+    "date": "2026-10-29",
+    "tmax": 15,
+    "tmin": 8,
+    "precip_risk": "low",
+    "confidence": "high"
+   },
+   {
+    "date": "2026-10-30",
+    "tmax": 14.5,
+    "tmin": 8,
+    "precip_risk": "low",
+    "confidence": "high"
+   },
+   {
+    "date": "2026-10-31",
+    "tmax": 14,
+    "tmin": 8,
+    "precip_risk": "low",
+    "confidence": "high"
+   },
+   {
+    "date": "2026-11-01",
+    "tmax": 11.5,
+    "tmin": 5,
+    "precip_risk": "low",
+    "confidence": "medium"
+   },
+   {
+    "date": "2026-11-02",
+    "tmax": 10,
+    "tmin": 3,
+    "precip_risk": "low",
+    "confidence": "medium"
+   },
+   {
+    "date": "2026-11-03",
+    "tmax": 10,
+    "tmin": 4.5,
+    "precip_risk": "low",
+    "confidence": "medium"
+   },
+   {
+    "date": "2026-11-04",
+    "tmax": 10,
+    "tmin": 5,
+    "precip_risk": "low",
+    "confidence": "medium"
+   }
+  ],
+  "calls": {
+   "ssw_risk": "high",
+   "cold_winter_chance": "medium",
+   "cold_winter_pct": 25,
+   "cold_spell_chance": "medium",
+   "cold_spell_pct": 45,
+   "model": "claude-opus-5-5",
+   "headline": "No warnings are in force. It stays dry and mild to Halloween, then a strong high brings fog and chilly nights from 2 November. The polar vortex is now all but certain to reverse around 4-10 November, which raises the odds of colder, blocked spells from mid-November."
+  }
+ },
+ "2026-10-30": {
+  "models": {
+   "ECMWF HRES": [
+    {
+     "date": "2026-10-31",
+     "tmax": 13.0,
+     "tmin": 7.8,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-01",
+     "tmax": 10.6,
+     "tmin": 4.6,
+     "precip": 0.4
+    },
+    {
+     "date": "2026-11-02",
+     "tmax": 10.2,
+     "tmin": 3.1,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-03",
+     "tmax": 9.1,
+     "tmin": 4.7,
+     "precip": 0.2
+    },
+    {
+     "date": "2026-11-04",
+     "tmax": 10.2,
+     "tmin": 6.6,
+     "precip": 0.2
+    },
+    {
+     "date": "2026-11-05",
+     "tmax": 9.6,
+     "tmin": 4.5,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-06",
+     "tmax": 9.5,
+     "tmin": 4.6,
+     "precip": 0.2
+    },
+    {
+     "date": "2026-11-07",
+     "tmax": 8.0,
+     "tmin": 3.9,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-08",
+     "tmax": 8.2,
+     "tmin": 3.6,
+     "precip": 0.0
+    }
+   ],
+   "ECMWF AIFS": [
+    {
+     "date": "2026-10-31",
+     "tmax": 12.9,
+     "tmin": 8.7,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-01",
+     "tmax": 10.5,
+     "tmin": 4.5,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-02",
+     "tmax": 9.2,
+     "tmin": 3.2,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-03",
+     "tmax": 9.9,
+     "tmin": 5.3,
+     "precip": 0.3
+    },
+    {
+     "date": "2026-11-04",
+     "tmax": 9.7,
+     "tmin": 4.9,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-05",
+     "tmax": 9.5,
+     "tmin": 6.7,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-06",
+     "tmax": 9.7,
+     "tmin": 7.1,
+     "precip": 0.3
+    },
+    {
+     "date": "2026-11-07",
+     "tmax": 8.5,
+     "tmin": 5.7,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-08",
+     "tmax": 8.2,
+     "tmin": 4.8,
+     "precip": 0.0
+    }
+   ],
+   "UKMO": [
+    {
+     "date": "2026-10-31",
+     "tmax": 13.9,
+     "tmin": 8.0,
+     "precip": 0.2
+    },
+    {
+     "date": "2026-11-01",
+     "tmax": 11.5,
+     "tmin": 6.0,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-02",
+     "tmax": 8.7,
+     "tmin": 3.9,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-03",
+     "tmax": 10.2,
+     "tmin": 5.6,
+     "precip": 0.8
+    },
+    {
+     "date": "2026-11-04",
+     "tmax": 10.4,
+     "tmin": 6.9,
+     "precip": 0.7
+    },
+    {
+     "date": "2026-11-05",
+     "tmax": 10.7,
+     "tmin": 4.4,
+     "precip": 0.0
+    }
+   ],
+   "GFS": [
+    {
+     "date": "2026-10-31",
+     "tmax": 14.2,
+     "tmin": 9.4,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-01",
+     "tmax": 11.3,
+     "tmin": 6.3,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-02",
+     "tmax": 10.1,
+     "tmin": 4.8,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-03",
+     "tmax": 9.9,
+     "tmin": 5.8,
+     "precip": 0.3
+    },
+    {
+     "date": "2026-11-04",
+     "tmax": 9.9,
+     "tmin": 8.8,
+     "precip": 1.0
+    },
+    {
+     "date": "2026-11-05",
+     "tmax": 9.6,
+     "tmin": 8.5,
+     "precip": 0.3
+    },
+    {
+     "date": "2026-11-06",
+     "tmax": 9.0,
+     "tmin": 8.0,
+     "precip": 1.2
+    },
+    {
+     "date": "2026-11-07",
+     "tmax": 8.5,
+     "tmin": 7.8,
+     "precip": 1.1
+    },
+    {
+     "date": "2026-11-08",
+     "tmax": 8.9,
+     "tmin": 7.2,
+     "precip": 0.1
+    }
+   ],
+   "ICON": [
+    {
+     "date": "2026-10-31",
+     "tmax": 14.7,
+     "tmin": 9.9,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-01",
+     "tmax": 11.5,
+     "tmin": 4.9,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-02",
+     "tmax": 9.9,
+     "tmin": 2.9,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-03",
+     "tmax": 10.1,
+     "tmin": 5.1,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-04",
+     "tmax": 9.2,
+     "tmin": 3.1,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-05",
+     "tmax": 9.7,
+     "tmin": 7.6,
+     "precip": 0.3
+    },
+    {
+     "date": "2026-11-06",
+     "tmax": 9.3,
+     "tmin": 7.5,
+     "precip": 1.9
+    }
+   ],
+   "GEM": [
+    {
+     "date": "2026-10-31",
+     "tmax": 13.8,
+     "tmin": 7.7,
+     "precip": 0.2
+    },
+    {
+     "date": "2026-11-01",
+     "tmax": 10.6,
+     "tmin": 5.5,
+     "precip": 1.0
+    },
+    {
+     "date": "2026-11-02",
+     "tmax": 8.4,
+     "tmin": 2.0,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-03",
+     "tmax": 9.3,
+     "tmin": 3.8,
+     "precip": 1.5
+    },
+    {
+     "date": "2026-11-04",
+     "tmax": 10.3,
+     "tmin": 7.2,
+     "precip": 1.5
+    },
+    {
+     "date": "2026-11-05",
+     "tmax": 9.3,
+     "tmin": 6.6,
+     "precip": 0.6
+    },
+    {
+     "date": "2026-11-06",
+     "tmax": 9.1,
+     "tmin": 7.0,
+     "precip": 0.3
+    },
+    {
+     "date": "2026-11-07",
+     "tmax": 9.6,
+     "tmin": 7.4,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-08",
+     "tmax": 8.3,
+     "tmin": 5.8,
+     "precip": 0.0
+    }
+   ],
+   "ARPEGE": [
+    {
+     "date": "2026-10-31",
+     "tmax": 12.5,
+     "tmin": 8.4,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-01",
+     "tmax": 9.9,
+     "tmin": 4.5,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-02",
+     "tmax": 9.7,
+     "tmin": 3.9,
+     "precip": 0.0
+    }
+   ],
+   "NOAA AIGFS": [
+    {
+     "date": "2026-10-31",
+     "tmax": 12.7,
+     "tmin": 8.9,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-01",
+     "tmax": 10.0,
+     "tmin": 5.7,
+     "precip": 0.1
+    },
+    {
+     "date": "2026-11-02",
+     "tmax": 8.7,
+     "tmin": 4.3,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-03",
+     "tmax": 9.1,
+     "tmin": 6.0,
+     "precip": 0.4
+    },
+    {
+     "date": "2026-11-04",
+     "tmax": 8.6,
+     "tmin": 5.2,
+     "precip": 0.1
+    },
+    {
+     "date": "2026-11-05",
+     "tmax": 8.5,
+     "tmin": 6.8,
+     "precip": 0.3
+    },
+    {
+     "date": "2026-11-06",
+     "tmax": 8.3,
+     "tmin": 6.7,
+     "precip": 0.5
+    },
+    {
+     "date": "2026-11-07",
+     "tmax": 8.7,
+     "tmin": 6.2,
+     "precip": 1.0
+    },
+    {
+     "date": "2026-11-08",
+     "tmax": 7.6,
+     "tmin": 5.7,
+     "precip": 0.3
+    }
+   ]
+  },
+  "blend": [
+   {
+    "date": "2026-10-30",
+    "tmax": 14.3,
+    "tmin": 7.9,
+    "precip": 0.0
+   },
+   {
+    "date": "2026-10-31",
+    "tmax": 14.3,
+    "tmin": 8.6,
+    "precip": 0.0
+   },
+   {
+    "date": "2026-11-01",
+    "tmax": 11.5,
+    "tmin": 4.9,
+    "precip": 0.0
+   },
+   {
+    "date": "2026-11-02",
+    "tmax": 10.1,
+    "tmin": 3.0,
+    "precip": 0.0
+   },
+   {
+    "date": "2026-11-03",
+    "tmax": 10.3,
+    "tmin": 4.8,
+    "precip": 0.3
+   },
+   {
+    "date": "2026-11-04",
+    "tmax": 10.5,
+    "tmin": 5.6,
+    "precip": 0.2
+   },
+   {
+    "date": "2026-11-05",
+    "tmax": 10.3,
+    "tmin": 6.1,
+    "precip": 0.3
+   },
+   {
+    "date": "2026-11-06",
+    "tmax": 9.5,
+    "tmin": 6.0,
+    "precip": 0.3
+   },
+   {
+    "date": "2026-11-07",
+    "tmax": 9.1,
+    "tmin": 5.5,
+    "precip": 0.0
+   },
+   {
+    "date": "2026-11-08",
+    "tmax": 8.7,
+    "tmin": 4.7,
+    "precip": 0.0
+   }
+  ],
+  "days": [
+   {
+    "date": "2026-10-30",
+    "tmax": 15,
+    "tmin": 7,
+    "precip_risk": "low",
+    "confidence": "high"
+   },
+   {
+    "date": "2026-10-31",
+    "tmax": 14,
+    "tmin": 8,
+    "precip_risk": "low",
+    "confidence": "high"
+   },
+   {
+    "date": "2026-11-01",
+    "tmax": 11,
+    "tmin": 5,
+    "precip_risk": "low",
+    "confidence": "high"
+   },
+   {
+    "date": "2026-11-02",
+    "tmax": 10,
+    "tmin": 2,
+    "precip_risk": "low",
+    "confidence": "medium"
+   },
+   {
+    "date": "2026-11-03",
+    "tmax": 10.5,
+    "tmin": 4.5,
+    "precip_risk": "low",
+    "confidence": "medium"
+   },
+   {
+    "date": "2026-11-04",
+    "tmax": 10.5,
+    "tmin": 5.5,
+    "precip_risk": "low",
+    "confidence": "medium"
+   },
+   {
+    "date": "2026-11-05",
+    "tmax": 10.5,
+    "tmin": 5.5,
+    "precip_risk": "low",
+    "confidence": "medium"
+   }
+  ],
+  "calls": {
+   "ssw_risk": "high",
+   "cold_winter_chance": "medium",
+   "cold_winter_pct": 26,
+   "cold_spell_chance": "medium",
+   "cold_spell_pct": 42,
+   "model": "claude-opus-5-5",
+   "prompt": "bf123af9",
+   "headline": "No warnings are in force. Halloween stays dry and mild, then a strong high brings fog, grey days and a chilly night into Monday 2 November. Rain returns from about 8-9 November. Meanwhile the polar vortex reverses around 4-5 November in every ECMWF and Canadian ensemble member."
+  }
+ },
+ "2026-10-31": {
+  "models": {
+   "ECMWF HRES": [
+    {
+     "date": "2026-11-01",
+     "tmax": 10.5,
+     "tmin": 4.7,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-02",
+     "tmax": 10.9,
+     "tmin": 1.6,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-03",
+     "tmax": 10.7,
+     "tmin": 5.8,
+     "precip": 1.3
+    },
+    {
+     "date": "2026-11-04",
+     "tmax": 9.8,
+     "tmin": 4.0,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-05",
+     "tmax": 10.1,
+     "tmin": 4.4,
+     "precip": 0.2
+    },
+    {
+     "date": "2026-11-06",
+     "tmax": 9.5,
+     "tmin": 5.7,
+     "precip": 0.2
+    },
+    {
+     "date": "2026-11-07",
+     "tmax": 9.4,
+     "tmin": 4.4,
+     "precip": 0.4
+    },
+    {
+     "date": "2026-11-08",
+     "tmax": 8.1,
+     "tmin": 5.4,
+     "precip": 1.3
+    },
+    {
+     "date": "2026-11-09",
+     "tmax": 8.9,
+     "tmin": 3.8,
+     "precip": 0.3
+    }
+   ],
+   "ECMWF AIFS": [
+    {
+     "date": "2026-11-01",
+     "tmax": 10.4,
+     "tmin": 4.4,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-02",
+     "tmax": 9.3,
+     "tmin": 3.3,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-03",
+     "tmax": 9.7,
+     "tmin": 6.0,
+     "precip": 0.6
+    },
+    {
+     "date": "2026-11-04",
+     "tmax": 9.5,
+     "tmin": 5.6,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-05",
+     "tmax": 9.5,
+     "tmin": 7.2,
+     "precip": 0.3
+    },
+    {
+     "date": "2026-11-06",
+     "tmax": 9.5,
+     "tmin": 7.0,
+     "precip": 0.6
+    },
+    {
+     "date": "2026-11-07",
+     "tmax": 8.5,
+     "tmin": 4.2,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-08",
+     "tmax": 9.4,
+     "tmin": 4.2,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-09",
+     "tmax": 9.0,
+     "tmin": 5.4,
+     "precip": 0.3
+    }
+   ],
+   "UKMO": [
+    {
+     "date": "2026-11-01",
+     "tmax": 11.5,
+     "tmin": 6.4,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-02",
+     "tmax": 9.9,
+     "tmin": 5.7,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-03",
+     "tmax": 10.2,
+     "tmin": 5.7,
+     "precip": 1.8
+    },
+    {
+     "date": "2026-11-04",
+     "tmax": 9.4,
+     "tmin": 3.1,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-05",
+     "tmax": 10.2,
+     "tmin": 5.5,
+     "precip": 0.7
+    },
+    {
+     "date": "2026-11-06",
+     "tmax": 9.3,
+     "tmin": 8.0,
+     "precip": 1.4
+    }
+   ],
+   "GFS": [
+    {
+     "date": "2026-11-01",
+     "tmax": 11.5,
+     "tmin": 6.7,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-02",
+     "tmax": 9.8,
+     "tmin": 5.3,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-03",
+     "tmax": 8.6,
+     "tmin": 5.3,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-04",
+     "tmax": 8.7,
+     "tmin": 4.3,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-05",
+     "tmax": 8.1,
+     "tmin": 4.6,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-06",
+     "tmax": 9.0,
+     "tmin": 7.6,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-07",
+     "tmax": 8.3,
+     "tmin": 7.3,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-08",
+     "tmax": 9.3,
+     "tmin": 5.1,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-09",
+     "tmax": 7.8,
+     "tmin": 3.9,
+     "precip": 0.0
+    }
+   ],
+   "ICON": [
+    {
+     "date": "2026-11-01",
+     "tmax": 11.1,
+     "tmin": 5.2,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-02",
+     "tmax": 9.8,
+     "tmin": 2.6,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-03",
+     "tmax": 10.4,
+     "tmin": 5.1,
+     "precip": 0.6
+    },
+    {
+     "date": "2026-11-04",
+     "tmax": 10.6,
+     "tmin": 5.7,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-05",
+     "tmax": 9.7,
+     "tmin": 8.4,
+     "precip": 1.9
+    },
+    {
+     "date": "2026-11-06",
+     "tmax": 9.7,
+     "tmin": 8.4,
+     "precip": 1.1
+    }
+   ],
+   "GEM": [
+    {
+     "date": "2026-11-01",
+     "tmax": 10.0,
+     "tmin": 4.0,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-02",
+     "tmax": 8.4,
+     "tmin": 1.3,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-03",
+     "tmax": 9.9,
+     "tmin": 3.0,
+     "precip": 1.58
+    },
+    {
+     "date": "2026-11-04",
+     "tmax": 9.9,
+     "tmin": 7.0,
+     "precip": 0.9
+    },
+    {
+     "date": "2026-11-05",
+     "tmax": 9.5,
+     "tmin": 6.8,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-06",
+     "tmax": 9.2,
+     "tmin": 7.7,
+     "precip": 1.1
+    },
+    {
+     "date": "2026-11-07",
+     "tmax": 8.3,
+     "tmin": 4.6,
+     "precip": 0.7
+    },
+    {
+     "date": "2026-11-08",
+     "tmax": 8.9,
+     "tmin": 5.0,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-09",
+     "tmax": 9.1,
+     "tmin": 5.8,
+     "precip": 0.0
+    }
+   ],
+   "ARPEGE": [
+    {
+     "date": "2026-11-01",
+     "tmax": 10.6,
+     "tmin": 4.8,
+     "precip": 0.1
+    },
+    {
+     "date": "2026-11-02",
+     "tmax": 9.4,
+     "tmin": 3.6,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-03",
+     "tmax": 10.4,
+     "tmin": 7.3,
+     "precip": 1.9
+    }
+   ],
+   "NOAA AIGFS": [
+    {
+     "date": "2026-11-01",
+     "tmax": 9.9,
+     "tmin": 5.7,
+     "precip": 0.1
+    },
+    {
+     "date": "2026-11-02",
+     "tmax": 9.3,
+     "tmin": 4.6,
+     "precip": 0.0
+    },
+    {
+     "date": "2026-11-03",
+     "tmax": 9.3,
+     "tmin": 5.1,
+     "precip": 0.5
+    },
+    {
+     "date": "2026-11-04",
+     "tmax": 7.7,
+     "tmin": 4.4,
+     "precip": 0.1
+    },
+    {
+     "date": "2026-11-05",
+     "tmax": 7.7,
+     "tmin": 5.9,
+     "precip": 0.3
+    },
+    {
+     "date": "2026-11-06",
+     "tmax": 7.8,
+     "tmin": 6.4,
+     "precip": 1.3
+    },
+    {
+     "date": "2026-11-07",
+     "tmax": 7.8,
+     "tmin": 6.1,
+     "precip": 1.6
+    },
+    {
+     "date": "2026-11-08",
+     "tmax": 7.7,
+     "tmin": 5.8,
+     "precip": 0.7
+    },
+    {
+     "date": "2026-11-09",
+     "tmax": 8.0,
+     "tmin": 6.2,
+     "precip": 0.1
+    }
+   ]
+  },
+  "blend": [
+   {
+    "date": "2026-10-31",
+    "tmax": 14.4,
+    "tmin": 8.4,
+    "precip": 0.0
+   },
+   {
+    "date": "2026-11-01",
+    "tmax": 11.4,
+    "tmin": 4.9,
+    "precip": 0.0
+   },
+   {
+    "date": "2026-11-02",
+    "tmax": 10.3,
+    "tmin": 3.1,
+    "precip": 0.0
+   },
+   {
+    "date": "2026-11-03",
+    "tmax": 10.5,
+    "tmin": 5.1,
+    "precip": 0.9
+   },
+   {
+    "date": "2026-11-04",
+    "tmax": 10.1,
+    "tmin": 4.5,
+    "precip": 0.0
+   },
+   {
+    "date": "2026-11-05",
+    "tmax": 10.0,
+    "tmin": 5.8,
+    "precip": 0.3
+   },
+   {
+    "date": "2026-11-06",
+    "tmax": 9.9,
+    "tmin": 6.9,
+    "precip": 1.1
+   },
+   {
+    "date": "2026-11-07",
+    "tmax": 8.8,
+    "tmin": 4.6,
+    "precip": 0.4
+   },
+   {
+    "date": "2026-11-08",
+    "tmax": 9.2,
+    "tmin": 4.2,
+    "precip": 0.0
+   },
+   {
+    "date": "2026-11-09",
+    "tmax": 8.9,
+    "tmin": 4.1,
+    "precip": 0.1
+   }
+  ],
+  "days": [
+   {
+    "date": "2026-10-31",
+    "tmax": 14.5,
+    "tmin": 7,
+    "precip_risk": "low",
+    "confidence": "high"
+   },
+   {
+    "date": "2026-11-01",
+    "tmax": 11.5,
+    "tmin": 6,
+    "precip_risk": "low",
+    "confidence": "high"
+   },
+   {
+    "date": "2026-11-02",
+    "tmax": 10,
+    "tmin": 3,
+    "precip_risk": "low",
+    "confidence": "medium"
+   },
+   {
+    "date": "2026-11-03",
+    "tmax": 10,
+    "tmin": 5,
+    "precip_risk": "low",
+    "confidence": "medium"
+   },
+   {
+    "date": "2026-11-04",
+    "tmax": 10.5,
+    "tmin": 5,
+    "precip_risk": "low",
+    "confidence": "medium"
+   },
+   {
+    "date": "2026-11-05",
+    "tmax": 10.5,
+    "tmin": 6,
+    "precip_risk": "low",
+    "confidence": "medium"
+   },
+   {
+    "date": "2026-11-06",
+    "tmax": 10,
+    "tmin": 7,
+    "precip_risk": "low",
+    "confidence": "medium"
+   }
+  ],
+  "calls": {
+   "ssw_risk": "high",
+   "cold_winter_chance": "medium",
+   "cold_winter_pct": 27,
+   "cold_spell_chance": "medium",
+   "cold_spell_pct": 44,
+   "model": "claude-opus-5-5",
+   "prompt": "bf123af9",
+   "headline": "No warnings are in force. Halloween stays dry and mild, then a strong high over Scotland brings a week of calm, foggy, grey weather, with rain returning around 9-10 November. Overhead, the polar vortex is forecast to reverse around 5 November in every ECMWF and Canadian ensemble member."
+  }
+ }
+}

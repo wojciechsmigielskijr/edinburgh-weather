@@ -1,0 +1,22 @@
+{
+ "2026": {
+  "2026-10-30": {
+   "cold_spell_pct": 42,
+   "cold_winter_pct": 26,
+   "prompt": "bf123af9",
+   "ssw_dec_pct": 8,
+   "ssw_feb_pct": 20,
+   "ssw_jan_pct": 14,
+   "ssw_nov_pct": 88
+  },
+  "2026-10-31": {
+   "cold_spell_pct": 44,
+   "cold_winter_pct": 27,
+   "prompt": "bf123af9",
+   "ssw_dec_pct": 8,
+   "ssw_feb_pct": 20,
+   "ssw_jan_pct": 15,
+   "ssw_nov_pct": 92
+  }
+ }
+}

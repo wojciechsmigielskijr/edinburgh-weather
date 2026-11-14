@@ -1,0 +1,36 @@
+{
+ "2026": {
+  "2026-11-14": {
+   "ssw_nov_pct": 3,
+   "ssw_dec_pct": 12,
+   "ssw_jan_pct": 27,
+   "ssw_feb_pct": 27,
+   "range": {
+    "ssw_nov_pct": [
+     2,
+     3
+    ],
+    "ssw_dec_pct": [
+     12,
+     13
+    ],
+    "ssw_jan_pct": [
+     25,
+     29
+    ],
+    "ssw_feb_pct": [
+     25,
+     29
+    ]
+   },
+   "oni": 2.46,
+   "oni_season": "ASO 2026",
+   "rate_ratio": {
+    "mid": 1.258,
+    "low": 1.172,
+    "high": 1.364
+   },
+   "model": "C3S seasonal hindcasts, 1 November starts (Met Office: 17 Oct to 9 Nov), winters 1993/94 to 2016/17: ecmwf-51, meteo_france-9, dwd-22, cmcc-4, ukmo-604; exported 2026-11-14"
+  }
+ }
+}

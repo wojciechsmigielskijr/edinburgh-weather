@@ -1,0 +1,324 @@
+{
+ "2026": {
+  "2026-10-30": {
+   "cold_spell_pct": 42,
+   "cold_winter_pct": 26,
+   "prompt": "bf123af9",
+   "ssw_dec_pct": 8,
+   "ssw_feb_pct": 20,
+   "ssw_jan_pct": 14,
+   "ssw_nov_pct": 88
+  },
+  "2026-10-31": {
+   "cold_spell_pct": 44,
+   "cold_winter_pct": 27,
+   "prompt": "bf123af9",
+   "ssw_dec_pct": 8,
+   "ssw_feb_pct": 20,
+   "ssw_jan_pct": 15,
+   "ssw_nov_pct": 92
+  },
+  "2026-11-01": {
+   "cold_spell_pct": 43,
+   "cold_winter_pct": 26,
+   "prompt": "bf123af9",
+   "ssw_dec_pct": 6,
+   "ssw_feb_pct": 20,
+   "ssw_jan_pct": 15,
+   "ssw_nov_pct": 94
+  },
+  "2026-11-05": {
+   "cold_spell_pct": 44,
+   "cold_winter_pct": 25,
+   "prompt": "ad257dca",
+   "ssw_dec_pct": 5,
+   "ssw_feb_pct": 20,
+   "ssw_jan_pct": 15,
+   "ssw_nov_pct": 95
+  },
+  "2026-11-06": {
+   "cold_spell_pct": 43,
+   "cold_winter_pct": 29,
+   "prompt": "ad257dca",
+   "ssw_dec_pct": 4,
+   "ssw_feb_pct": 22,
+   "ssw_jan_pct": 15,
+   "ssw_nov_pct": 96
+  },
+  "2026-11-07": {
+   "cold_spell_pct": 44,
+   "cold_winter_pct": 29,
+   "prompt": "ad257dca",
+   "ssw_dec_pct": 4,
+   "ssw_feb_pct": 22,
+   "ssw_jan_pct": 15,
+   "ssw_nov_pct": 97
+  },
+  "2026-11-08": {
+   "cold_spell_pct": 44,
+   "cold_winter_pct": 28,
+   "prompt": "ad257dca",
+   "ssw_dec_pct": 4,
+   "ssw_feb_pct": 22,
+   "ssw_jan_pct": 15,
+   "ssw_nov_pct": 98
+  },
+  "2026-11-09": {
+   "cold_spell_pct": 48,
+   "cold_winter_pct": 31,
+   "effort": "xhigh",
+   "prompt": "ac2d996f",
+   "seas5_cold_winter_pct": 55,
+   "ssw_dec_pct": 4,
+   "ssw_feb_pct": 22,
+   "ssw_jan_pct": 15,
+   "ssw_nov_pct": 99
+  },
+  "2026-11-10": {
+   "cold_spell_pct": 47,
+   "cold_winter_pct": 29,
+   "effort": "xhigh",
+   "prompt": "9b7dc540",
+   "seas5_cold_winter_own_climate_pct": 24,
+   "seas5_cold_winter_pct": 55,
+   "ssw_dec_pct": 4,
+   "ssw_feb_pct": 20,
+   "ssw_jan_pct": 15,
+   "ssw_nov_pct": 99,
+   "stormy_winter_pct": 46,
+   "wet_winter_pct": 50
+  },
+  "2026-11-11": {
+   "cold_spell_pct": 48,
+   "cold_winter_pct": 30,
+   "effort": "xhigh",
+   "prompt": "9b7dc540",
+   "seas5_cold_winter_own_climate_pct": 24,
+   "seas5_cold_winter_pct": 53,
+   "ssw_dec_pct": 4,
+   "ssw_feb_pct": 20,
+   "ssw_jan_pct": 16,
+   "ssw_nov_pct": 99,
+   "stormy_winter_pct": 46,
+   "wet_winter_pct": 46
+  },
+  "2026-11-12": {
+   "cold_spell_pct": 50,
+   "cold_winter_pct": 32,
+   "effort": "xhigh",
+   "months": {
+    "2026-11": {
+     "temperature": "colder"
+    },
+    "2026-12": {
+     "temperature": "near normal"
+    },
+    "2027-01": {
+     "nao": {
+      "C3S multi-system": {
+       "issue": "2026-11",
+       "nao": "negative"
+      },
+      "CMCC": {
+       "issue": "2026-11",
+       "nao": "strongly negative"
+      },
+      "DWD": {
+       "issue": "2026-11",
+       "nao": "strongly negative"
+      },
+      "ECCC": {
+       "issue": "2026-11",
+       "nao": "strongly negative"
+      },
+      "ECMWF SEAS5": {
+       "issue": "2026-11",
+       "median": -1.8,
+       "nao": "negative"
+      },
+      "JMA": {
+       "issue": "2026-11",
+       "nao": "negative"
+      },
+      "M\u00e9t\u00e9o-France": {
+       "issue": "2026-11",
+       "nao": "near zero"
+      },
+      "NCEP CFSv2": {
+       "issue": "2026-11",
+       "nao": "near zero"
+      },
+      "UK Met Office GloSea": {
+       "issue": "2026-11",
+       "nao": "strongly negative"
+      }
+     },
+     "temperature": "milder"
+    },
+    "2027-02": {
+     "nao": {
+      "C3S multi-system": {
+       "issue": "2026-11",
+       "nao": "strongly negative"
+      },
+      "CMCC": {
+       "issue": "2026-11",
+       "nao": "strongly negative"
+      },
+      "DWD": {
+       "issue": "2026-11",
+       "nao": "strongly negative"
+      },
+      "ECCC": {
+       "issue": "2026-11",
+       "nao": "strongly negative"
+      },
+      "ECMWF SEAS5": {
+       "issue": "2026-11",
+       "median": -3.0,
+       "nao": "strongly negative"
+      },
+      "JMA": {
+       "issue": "2026-11",
+       "nao": "strongly negative"
+      },
+      "M\u00e9t\u00e9o-France": {
+       "issue": "2026-11",
+       "nao": "near zero"
+      },
+      "NCEP CFSv2": {
+       "issue": "2026-11",
+       "nao": "strongly negative"
+      },
+      "UK Met Office GloSea": {
+       "issue": "2026-11",
+       "nao": "strongly negative"
+      }
+     },
+     "temperature": "near normal"
+    },
+    "2027-03": {
+     "temperature": "near normal"
+    }
+   },
+   "prompt": "56ee0116",
+   "seas5_cold_winter_own_climate_pct": 24,
+   "seas5_cold_winter_pct": 51,
+   "ssw_dec_pct": 4,
+   "ssw_feb_pct": 20,
+   "ssw_jan_pct": 16,
+   "ssw_nov_pct": 99,
+   "stormy_winter_pct": 45,
+   "wet_winter_pct": 46
+  },
+  "2026-11-14": {
+   "cold_spell_pct": 48,
+   "cold_winter_pct": 30,
+   "effort": "xhigh",
+   "months": {
+    "2026-11": {
+     "temperature": "colder"
+    },
+    "2026-12": {
+     "temperature": "milder"
+    },
+    "2027-01": {
+     "nao": {
+      "C3S multi-system": {
+       "issue": "2026-11",
+       "nao": "strongly negative"
+      },
+      "CMCC": {
+       "issue": "2026-11",
+       "nao": "strongly negative"
+      },
+      "DWD": {
+       "issue": "2026-11",
+       "nao": "strongly negative"
+      },
+      "ECCC": {
+       "issue": "2026-11",
+       "nao": "strongly negative"
+      },
+      "ECMWF SEAS5": {
+       "issue": "2026-11",
+       "median": -1.5,
+       "nao": "negative"
+      },
+      "JMA": {
+       "issue": "2026-11",
+       "nao": "negative"
+      },
+      "Meteo-France": {
+       "issue": "2026-11",
+       "nao": "near zero"
+      },
+      "NCEP CFSv2": {
+       "issue": "2026-11",
+       "nao": "near zero"
+      },
+      "UK Met Office GloSea": {
+       "issue": "2026-11",
+       "nao": "strongly negative"
+      }
+     },
+     "temperature": "near normal"
+    },
+    "2027-02": {
+     "nao": {
+      "C3S multi-system": {
+       "issue": "2026-11",
+       "nao": "strongly negative"
+      },
+      "CMCC": {
+       "issue": "2026-11",
+       "nao": "strongly negative"
+      },
+      "DWD": {
+       "issue": "2026-11",
+       "nao": "strongly negative"
+      },
+      "ECCC": {
+       "issue": "2026-11",
+       "nao": "strongly negative"
+      },
+      "ECMWF SEAS5": {
+       "issue": "2026-11",
+       "median": -2.9,
+       "nao": "strongly negative"
+      },
+      "JMA": {
+       "issue": "2026-11",
+       "nao": "strongly negative"
+      },
+      "Meteo-France": {
+       "issue": "2026-11",
+       "nao": "near zero"
+      },
+      "NCEP CFSv2": {
+       "issue": "2026-11",
+       "nao": "strongly negative"
+      },
+      "UK Met Office GloSea": {
+       "issue": "2026-11",
+       "nao": "strongly negative"
+      }
+     },
+     "temperature": "near normal"
+    },
+    "2027-03": {
+     "temperature": "near normal"
+    }
+   },
+   "prompt": "5a38c770",
+   "seas5_cold_winter_own_climate_pct": 24,
+   "seas5_cold_winter_pct": 39,
+   "ssw_dec_pct": 3,
+   "ssw_feb_pct": 22,
+   "ssw_jan_pct": 18,
+   "ssw_nov_pct": 99,
+   "stormy_winter_pct": 44,
+   "wet_winter_pct": 47
+  }
+ }
+}

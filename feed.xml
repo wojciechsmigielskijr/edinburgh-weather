@@ -1,0 +1,707 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Edinburgh Weather Desk</title>
+  <link href="https://wojciechsmigielskijr.github.io/edinburgh-weather/"/>
+  <link rel="self" href="https://wojciechsmigielskijr.github.io/edinburgh-weather/feed.xml"/>
+  <id>https://wojciechsmigielskijr.github.io/edinburgh-weather/</id>
+  <updated>2026-11-14T18:50:00+00:00</updated>
+<entry>
+  <title>Rain on Sunday 15 November brings ice on Monday morning. A wetter front on Tuesday 17 November starts as snow on the Pentlands. An easterly with showers follows on 19 November.</title>
+  <link href="https://wojciechsmigielskijr.github.io/edinburgh-weather/#forecast"/>
+  <id>https://wojciechsmigielskijr.github.io/edinburgh-weather/run/20261114T1850Z</id>
+  <updated>2026-11-14T18:50:00+00:00</updated>
+  <content type="html">&lt;p&gt;No Met Office warnings are in force for Edinburgh. At 18:20 UTC the airport had 9 °C, light rain, a south-west wind of 37 km/h and 1002 hPa.
+
+A cold front brings rain on Sunday 15 November. Frost and ice follow on Monday morning. A second, wetter front on Tuesday 17 November meets cold air, so it starts as sleet or snow on the hills. On 19 November a deep low sits south of Scotland and gives a cold easterly with showers. A ridge brings frost on 20-21 November.
+
+The 10 hPa vortex wind is westerly again after the major SSW of 10-12 November. About half of the ECMWF members bring a high polar cap down to 500 hPa on 24-28 November. The models put the high over Scandinavia and the low to the west, so Edinburgh stays near normal in that week.&lt;/p&gt;&lt;p&gt;&lt;b&gt;What changed:&lt;/b&gt; Verification: today the airport reached 10 °C and fell to 2 °C, as I set. The METAR at 18:20 UTC has light rain and a mean wind of 37 km/h, more than the guidance.
+
+Short range:
+- 15 November: rain 95% (was 97%). The hourly sum fell from about 11 mm to about 7 mm, so I expect 4-9 mm (was 5-11 mm). The low of 1 °C and the high of 9.5 °C are the same.
+- 16 November: low -1.5 °C (was -2 °C), because the blend gives -1.4 °C with frost at 70% (was -1.9 °C and 79%). Rain 10% (was 12%).
+- 17 November: rain 95% (was 92%). GFS has 26.9 mm (was 18.5 mm) and GEM 56.1 mm. GEFS snow members rose to 77% (was 65%).
+- 18 November: rain 70% (was 60%) and low 2.5 °C (was 2 °C).
+- 19 November: most runs now move the low south of Scotland, so the wind is easterly, not uncertain. Rain 35% (was 30%), low 1 °C (was 0.5 °C) and high 6 °C (was 6.5 °C).
+- 20 November: low -0.5 °C (was -2.5 °C). The blend now calls the night cloudy or windy and gives -0.2 °C with frost at 45% (was -2.6 °C and 80%).
+
+Medium range and stratosphere:
+- The North Sea anomaly is now +0.77 °C (was +0.98 °C), and the tripole -0.61 (was -0.70).
+- GFS now has +0.49 sd at the 500 hPa cap on 24 November (was +1.11 sd).
+- GEFS EPO: 48% of members at -1 or below on 21 November (was 61%). The GEFS low is now -0.98 on 18 November.
+- Members at +1 sd at the 100 hPa cap: GEPS 81% (was 76%) and GEFS 6% (was 13%). ECMWF ENS (61%) and AIFS ENS (63%) are the same.
+- The GFS heat-flux peak on 21 November fell to 27.1 K m/s (was 32.5 K m/s). The GEPS weakest member is now 2.7 m/s (was 1.8 m/s).
+- ECMWF ENS still first has half of its members at +1 sd at 500 hPa on 25 November. The MJO is now active, phase 4 at 1.08 on 10 November (was 0.81 on 9 November).&lt;/p&gt;&lt;p&gt;&lt;b&gt;SSW risk:&lt;/b&gt; low. The major SSW of 10-12 November is in the analysis. A new one cannot start before about 3 December, 20 westerly days after the last easterly day. No ensemble member reverses again to 28-30 November. After an SSW, another one started within 60 days in 2 of 31 cases since 1979, and in 0 of 4 early cases.
+
+The surface window starts when the 500 hPa polar cap turns positive in the ensembles. ECMWF ENS first has half of its members at +1 sd on 25 November. So the window opens on about 24-28 November.
+
+Other data agree:
+- EC46 peaks its Arctic index at +0.76 sd on 26 November, with 45% of members above +1 sd.
+- GEFS takes the AO to -1.48 on 29 November, with 90% of members negative.
+- ECMWF makes Blocking the most likely regime on 22-28 November.
+
+For Edinburgh, the block forms mostly over Scandinavia and the Arctic, with lows west of Ireland. That gives a south-easterly or southerly, near-normal temperatures, rain on fronts and frost on clear nights.
+
+The air upwind is only moderately cold. On 24-28 November, 24-31% of ECMWF members reach -8 °C at 850 hPa over Oslo and 22-29% over Stockholm, but only 6-12% over Copenhagen. Moscow is colder (up to 73% on 24 November), but it lies south-east of the usual track. The North Sea is 0.77 °C above its 1991-2020 normal, so showers at the coast are rain or sleet.
+
+From about 7 December the vortex rebuilds to about 38-40 m/s in the ECMWF 46-day run. A strong vortex favours mild, wet westerlies, so the cold risk falls in the second half of December.&lt;/p&gt;</content>
+</entry>
+<entry>
+  <title>Rain on Sunday 15 November brings ice that night. A wetter band on Tuesday 17 November starts as sleet or snow on the Pentlands.</title>
+  <link href="https://wojciechsmigielskijr.github.io/edinburgh-weather/#forecast"/>
+  <id>https://wojciechsmigielskijr.github.io/edinburgh-weather/run/20261114T1559Z</id>
+  <updated>2026-11-14T15:59:00+00:00</updated>
+  <content type="html">&lt;p&gt;No Met Office warnings are in force for Edinburgh. At 15:50 UTC the airport had 9 °C, a south-west wind of 17 km/h and a clear sky. It fell to 2 °C at 03:50 UTC.
+
+A cold front brings rain on Sunday 15 November, then frost and ice on Monday morning. A second, wetter front on Tuesday 17 November meets cold air, so it starts as sleet or snow on the hills. A deep low sits near Ireland on 19 November, and a ridge brings hard frost on 20 November.
+
+The 10 hPa vortex wind is westerly again after the major SSW of 10-12 November. About half of the ECMWF members bring a high polar cap down to 500 hPa on 24-27 November.&lt;/p&gt;&lt;p&gt;&lt;b&gt;What changed:&lt;/b&gt; Verification: the airport reached 10 °C today, against my high of 9.5 °C. Its low was 2 °C at 03:50 UTC, against my 3 °C.
+
+Short range:
+- 14 November: high 10 °C (was 9.5 °C) and low 2 °C (was 3 °C), from the observations.
+- 15 November: high 9.5 °C (was 8.5 °C), from the blend. Rain 97% and the low of 1 °C are the same. The hourly sum is about 11 mm.
+- 16 November: rain 12% (was 20%), low -2 °C (was -2.5 °C) and high 4.5 °C (was 4 °C).
+- 17 November: rain 92% (was 93%), low 0.5 °C (was 0 °C) and high 6 °C (was 5.5 °C). AIFS ENS now has snow in 78% of members and GEFS in 65%.
+- 18 November: rain 60%, the same, and high 7 °C (was 6.5 °C).
+- 19 November: low 0.5 °C (was 0 °C) and high 6.5 °C (was 6 °C). The position of the low is still not certain.
+- 20 November: rain 10% (was 12%), low -2.5 °C (was -3 °C) and high 5.5 °C (was 5 °C).
+
+Medium range and stratosphere:
+- GFS now has +1.11 sd at the 500 hPa cap on 24 November. The last run had +2.65 sd on 29 November.
+- GEFS deepens the Alaska ridge again: EPO -1.01, with 61% of members at -1 or below on 21 November (was -0.87 and 39%).
+- GEFS takes the AO to -1.48 on 29 November (was -2.33 on 28 November).
+- Members at +1 sd at the 100 hPa cap: AIFS ENS 63% (was 78%) and GEFS 13% (was 6%). ECMWF ENS (61%) and GEPS (76%) are the same.
+- ECMWF ENS still first has half of its members at +1 sd at 500 hPa on 25 November.&lt;/p&gt;&lt;p&gt;&lt;b&gt;SSW risk:&lt;/b&gt; low. The major SSW of 10-12 November is in the analysis. A new one cannot start before about 3 December, 20 westerly days after the last easterly day. No ensemble member reverses again to 28-30 November. After an SSW, another one started within 60 days in 2 of 31 cases since 1979, and in 0 of 4 early cases.
+
+The surface window starts when the 500 hPa polar cap turns positive in the ensembles. ECMWF ENS first has half of its members at +1 sd on 25 November. So the window opens on about 24-27 November.
+
+Other data agree:
+- EC46 peaks its Arctic index at +0.76 sd on 26 November, with 45% of members above +1 sd.
+- GEFS takes the AO to -1.48 on 29 November, with 90% of members negative.
+- ECMWF makes Blocking the most likely regime on 22-28 November.
+
+For Edinburgh, the block forms mostly over Scandinavia and the Arctic, with lows west of Ireland. That gives a south-easterly or southerly, near-normal temperatures, rain on fronts and frost on clear nights.
+
+The air upwind is only moderately cold. On 24-28 November, 24-31% of ECMWF members reach -8 °C at 850 hPa over Oslo and 22-29% over Stockholm, but only 6-12% over Copenhagen. Moscow and Kyiv are colder, but they lie south-east of the usual track. The North Sea is 0.98 °C above its 1991-2020 normal, so showers at the coast are rain or sleet.
+
+From about 7 December the vortex rebuilds to about 38-40 m/s in the ECMWF 46-day run. A strong vortex favours mild, wet westerlies, so the cold risk falls in the second half of December.&lt;/p&gt;</content>
+</entry>
+<entry>
+  <title>Rain on Sunday 15 November turns to ice that night. A wetter Tuesday 17 November starts as snow on the Pentlands, and hard frost returns on Friday 20 November.</title>
+  <link href="https://wojciechsmigielskijr.github.io/edinburgh-weather/#forecast"/>
+  <id>https://wojciechsmigielskijr.github.io/edinburgh-weather/run/20261114T0903Z</id>
+  <updated>2026-11-14T09:03:00+00:00</updated>
+  <content type="html">&lt;p&gt;No Met Office warnings are in force for Edinburgh. At 08:50 UTC the airport had 7 °C, a south-west wind of 20 km/h and few clouds, after a low of 3 °C at 04:20.
+
+A cold front brings rain on Sunday 15 November. Frost and ice follow that night. A second, larger rain band on Tuesday 17 November meets cold air. Thus it starts as snow on the hills and can start as sleet in the city.
+
+A deep low near Ireland gives a cold easterly on 19 November. A ridge then brings hard frost on 20 November.
+
+High above, the 60°N wind at 10 hPa is westerly again after the major SSW of 10-12 November. About half of the ECMWF members bring its effect down to 500 hPa on 24-27 November. ECMWF makes Blocking the most likely regime on 22-28 November.&lt;/p&gt;&lt;p&gt;&lt;b&gt;What changed:&lt;/b&gt; Verification: my last forecast had a low of -1 °C and a high of 7 °C on 13 November. The airport recorded -1 °C and 7 °C. It had a low of 3 °C for 14 November, and the airport recorded 3 °C.
+
+Short range:
+- 14 November: high 9.5 °C (was 8.5 °C) and rain 3% (was 7%).
+- 15 November: rain 97% (was 90%). The low is 1 °C (was 3.5 °C), because the cold air behind the front now arrives in the afternoon. The freezing level falls to 570 m, so the Pentlands tops get snow. The ECMWF ENS mean is 5.9 mm (was 7.2 mm).
+- 16 November: mostly dry, rain 20% (was 68%). The low is -2.5 °C (was -0.5 °C) and the high 4 °C (was 5.5 °C).
+- 17 November: now a clear frontal day, rain 93% (was 52%). The ECMWF ENS mean is 12.3 mm and GFS has 38.9 mm. The low is 0 °C (was -2.5 °C). ECMWF ENS lying snow is 10% (was 2%).
+- 18 November: rain 60% (was 40%), low 2 °C (was 0 °C) and high 6.5 °C (was 5 °C).
+- New: a deep low near Ireland with a cold easterly on 19 November, and hard frost on 20 November.
+
+Medium and extended range:
+- The ECMWF regimes (13 November) now make Blocking the most likely regime on 22-28 November. In the 11 November run, no regime was the main regime at that time. Blocking leads again on 5-12 December (was 4-11 December).
+- The weekly maps now put a Scandinavian high and a trough west of Ireland in the week of 23 November. Scotland stays at 0 to +1 °C.
+- The meteogram has about -2.5 °C for the week to 23 November (was -1.2 °C).
+
+Stratosphere:
+- The 10 hPa wind is westerly in every analysis from 13 November. No member reverses again.
+- The ECMWF ENS share at +1 sd at 500 hPa now reaches half (55%) on 25 November. The last run peaked at 49%.
+- Members at +1 sd at 100 hPa: ECMWF ENS 61% (was 67%), AIFS ENS 78% (90%), GEPS 76% (71%) and GEFS 6% (32%).
+- The EPO is weaker: GEFS -0.87 (was -1.87), ECMWF ENS -0.72 (was -0.64) and AIFS ENS -0.66 (was -1.18).
+- GFS has +2.65 sd at 500 hPa on 29 November (was +3.23 sd on 27 November).&lt;/p&gt;&lt;p&gt;&lt;b&gt;SSW risk:&lt;/b&gt; low. The major SSW of 10-12 November is in the analysis. A new one cannot start before about 3 December, 20 westerly days after the last easterly day. No ensemble member reverses again to 28-30 November.
+
+The surface window starts when the 500 hPa polar cap turns positive in the ensembles. ECMWF ENS reaches half of its members at +1 sd on 25 November. So the window opens on about 24-27 November.
+
+Other data point the same way:
+- EC46 peaks its Arctic index at +0.76 sd on 26 November, with 45% of members above +1 sd.
+- GEFS takes the AO to -2.33 on 28 November.
+- ECMWF makes Blocking the most likely regime on 22-28 November.
+
+For Edinburgh: the block forms mostly over Scandinavia, with lows west of Ireland. That gives a south-easterly, near-normal temperatures, rain on the edge of fronts and frost on clear nights. The air upwind is not very cold: Copenhagen has only 4-12% of members at -8 °C at 850 hPa. The North Sea is 0.98 °C above normal, so showers at the coast are rain or sleet.
+
+After about 7 December the vortex rebuilds to about 38-40 m/s. A strong vortex favours mild, wet westerlies, so the cold risk falls in the second half of December.&lt;/p&gt;</content>
+</entry>
+<entry>
+  <title>Frost tonight and rain on Sunday 15 November come first, then a cold, showery week brings ice in the city and snow on the Pentlands.</title>
+  <link href="https://wojciechsmigielskijr.github.io/edinburgh-weather/#forecast"/>
+  <id>https://wojciechsmigielskijr.github.io/edinburgh-weather/run/20261112T0903Z</id>
+  <updated>2026-11-12T09:03:00+00:00</updated>
+  <content type="html">&lt;p&gt;No Met Office warnings are in force for Edinburgh. At 08:20 UTC the airport had 2 °C under a clear sky, after a low of -1 °C at 02:20.
+
+Today and tomorrow are dry, and frost is likely again tonight. An Atlantic front brings rain in every model on 15 November. A cold north-westerly with showers, frost and ice follows on 16-18 November.
+
+High above us, the 60°N wind at 10 hPa is easterly today in every member of four ensembles. It turns westerly again on 13-14 November. A second rise of the polar cap reaches the troposphere in about half of the ECMWF members by 25 November.&lt;/p&gt;&lt;p&gt;&lt;b&gt;What changed:&lt;/b&gt; Verification: the light rain of last evening stopped before midnight. Then the sky cleared, and the airport fell to -1 °C at 02:20, below my low of 0.5 °C. Again the airport ran colder than the guidance on a clear night.
+
+Short range:
+- 12 November: low -1 °C, observed (was 0.5 °C). High 7 °C (was 6 °C).
+- 13 November: high 7 °C (was 6.5 °C). ECMWF ENS frost is 35% (was 63%), GEFS 100% (was 97%).
+- 14 November: low 3 °C (was 3.5 °C).
+- 15 November: rain 90% (was 88%), low 3.5 °C (was 4 °C) and high 8.5 °C (was 8 °C). The ECMWF ENS mean is 7.2 mm (was 8.6 mm). UKMO has 7.2 mm (was 18.9 mm), ECMWF HRES 5.9 mm (was 9.0 mm) and AIFS 12.7 mm (was 4.8 mm).
+- 16 November: low -0.5 °C (was 1 °C). ECMWF ENS frost and ice are both 65% (were 47% and 45%). AIFS ENS snow is 33% (was 20%) and GEFS 16% (was 6%).
+- 17 November: colder at night, low -2.5 °C (was -0.5 °C), but rain 52% (was 62%). ICON has 3.8 mm (was 27.0 mm) and GEM 0.0 mm (was 8.3 mm). AIFS ENS snow is 37% (was 29%).
+- 18 November: rain 40% (was 50%). ECMWF HRES is now dry with -0.2 °C and 4.3 °C (was 2.9 mm, -3.4 °C and 2.2 °C). GFS has 2.3 mm (was 26.2 mm).
+- New: a ridge with frost on 19-21 November, and a Channel low with a north-easterly on 19 November in ECMWF HRES.
+
+Extended range: no change. The ECMWF charts are the same runs. The EC46 indices of 12 November match the previous run.
+
+Stratosphere:
+- The GEFS 00 UTC run and GEPS keep the 10 hPa wind easterly on 13 November (100% and 86%). The GEFS 12 UTC run had 0%.
+- Members at +1 sd at the 100 hPa cap: AIFS ENS 90% (was 92%), GEPS 71% (62%), ECMWF ENS 67% (61%) and GEFS 32% (42%).
+- The ECMWF ENS share at +1 sd at 500 hPa peaks at 49% on 25 November (was 53%). So half the members do not reach it in this run.
+- The single runs go deeper. GFS has +3.23 sd at 500 hPa on 27 November (was +1.69 sd on 24 November), and HRES +2.07 sd on 26 November (was +1.38 sd).
+- New: GFS turns the 60°N wind easterly through the troposphere on 28 November.
+- EPO: ECMWF ENS -0.64 (was -0.90), GEFS -1.87 (was -1.65) and AIFS ENS -1.18 (was -1.45).&lt;/p&gt;&lt;p&gt;&lt;b&gt;SSW risk:&lt;/b&gt; high. The major SSW of 10-13 November is the earliest in the record since 1979. At 10 hPa it lasts 3-4 days. A new major SSW cannot start before about 3-4 December, 20 westerly days after the last easterly day.
+
+Part of the surface response came before the reversal. The observed AO is -1.68 today, and GEFS takes it to -1.93 on 12 November.
+
+The next surface window starts when the tropospheric cap turns positive in the ensembles, not on a fixed lag. The ECMWF ENS share at +1 sd at 500 hPa rises from 14% on 20 November to 49% on 25 November. So a window opens on about 22-26 November in about half of the members.
+
+For a cold response from late November:
+- EC46 puts its Arctic pressure index at +0.62 sd on 25 November, with 43-45% of members above +1 sd.
+- The EC46 North Pole maps keep heights above normal over Greenland and the Arctic to 21 December.
+- ECMWF Blocking rises to 37-44% on 4-11 December.
+- The day-16 GFS has easterlies at 60°N through the troposphere on 28 November, a high-latitude block. That is one run.
+
+Against a cold response:
+- The 10 hPa vortex rebuilds to about 41 m/s by mid-December, and the QBO is westerly (+15.91 m/s at 30 hPa in October).
+- The Hovmöller and the 9 November weekly maps put the low west of the UK. They put Scotland in a south-westerly or south-easterly, at 0 to +1 °C.
+- Eurasian snow cover is below normal (14.55 against 16.06 million km²), so the air upwind is not very cold.
+
+For Edinburgh: high pressure to the north with lows to the west and south gives a south-easterly or easterly. In an easterly the North Sea (+0.69 °C) gives showers of rain or sleet near sea level and snow on the Pentlands. Snow at the coast needs 850 hPa near -8 °C. A strong vortex in mid-December favours mild, wet westerlies.&lt;/p&gt;</content>
+</entry>
+<entry>
+  <title>Frost on the next two mornings and rain on 15 November come first. A cold, showery trough then gives ice and hill snow on 16-19 November, after the record-early major SSW ends on 13 November.</title>
+  <link href="https://wojciechsmigielskijr.github.io/edinburgh-weather/#forecast"/>
+  <id>https://wojciechsmigielskijr.github.io/edinburgh-weather/run/20261111T2135Z</id>
+  <updated>2026-11-11T21:35:00+00:00</updated>
+  <content type="html">&lt;p&gt;No Met Office warnings are in force for Edinburgh. At 21:20 UTC the airport had 2 °C and light rain. The hourly guidance had 4.7 °C and no rain, so this evening is colder and wetter than the guidance.
+
+A dry north-westerly on 12 November and a ridge on 13 November give two frosty mornings. A front brings rain to every model on 15 November. Then a deep low moves towards Norway, and cold air from the north-west gives showers, frost and ice on 16-18 November. Sleet can fall in the city, and snow can fall on the Pentlands.
+
+The new ECMWF run has more NAO- on 17-20 November than before, at 47-75%. Its Edinburgh meteogram now puts the week to 23 November about 1.2 °C below the model climate.
+
+High above us, the 60°N wind at 10 hPa is easterly today in every member of four ensembles. It is westerly again from 13 November. A second rise of the polar cap reaches the troposphere in about half of the ECMWF members by 25 November.&lt;/p&gt;&lt;p&gt;&lt;b&gt;What changed:&lt;/b&gt; Verification: today reached 7 °C at the airport, against my high of 6 °C. The low was -3 to -4 °C, as I set. This evening the airport has 2 °C and light rain, about 3 °C colder than the hourly guidance, which had no rain.
+
+Short range:
+- 12 November: low 0.5 °C (was 0 °C), high 6 °C (was 6.5 °C).
+- 13 November: high 6.5 °C (was 6 °C). ECMWF ENS frost is 63% (was 61%).
+- 14 November: low 3.5 °C (was 2 °C), high 8.5 °C (was 8 °C).
+- 15 November: rain 88% (was 72%). Every single run is now wet. ECMWF HRES has 9.0 mm (was 0.1 mm), GFS 8.5 mm (was 0.0 mm) and ICON 8.6 mm (was 0.2 mm). HRES gusts fall to 48 km/h (was 70 km/h).
+- 16 November: rain 70% (was 74%), low 1 °C (was 1.5 °C), high 6 °C (was 6.5 °C).
+- 17 November: colder. Low -0.5 °C (was 3 °C) and high 4.5 °C (was 7 °C). ECMWF ENS ice is 53% and AIFS ENS snow 29%.
+
+Extended range: NAO- now reaches 47-75% on 17-20 November (was 34-44% on 18-20 November). The Blocking peak moves later, to 4-11 December (was 2-8 December). The meteogram week to 23 November is about -1.2 °C (was about -0.3 °C).
+
+Stratosphere:
+- GEFS 12 UTC and GEPS now have 0% easterly on 13 November (were 100% and 90%).
+- The HRES rebuild is slower, 22.6 m/s on 25 November (was 28.4 m/s).
+- Members at +1 sd at the 100 hPa cap: AIFS ENS 92% (was 86%), GEFS 42% (39%), ECMWF ENS 61% (63%) and GEPS 62% (86%).
+- The tropospheric caps are lower: GFS +1.69 sd at 500 hPa (1000 hPa +1.45 sd, was +2.57 sd) and HRES +1.38 sd (was +1.75 sd). New: 53% of ECMWF ENS members reach +1 sd at 500 hPa on 25 November.
+- The ECMWF ENS EPO is less negative: -0.90 on 21 November (was -1.26).&lt;/p&gt;&lt;p&gt;&lt;b&gt;SSW risk:&lt;/b&gt; high. The major SSW of 10-12 November is the earliest in the record since 1979. At 10 hPa it lasts about 3 days.
+
+Part of the surface response came before the reversal. The HRES 500 hPa cap was +0.94 sd on 29 October, and the observed AO is -1.68 today. GEFS takes the AO to -1.93 on 12 November.
+
+The next surface window starts when the tropospheric cap turns positive in the ensembles, not on a fixed lag. The ECMWF ENS share at +1 sd at 500 hPa rises from 14% on 20 November to 53% on 25 November. So the window starts about 25 November.
+
+For a cold response from 25 November:
+- EC46 puts its Arctic pressure index at +0.6 sd on 24-26 November, with 35-45% of members above +1 sd.
+- The EC46 North Pole maps keep heights above normal over Greenland and the Arctic to 21 December.
+- ECMWF Blocking rises to 37-44% on 4-11 December.
+
+Against a cold response:
+- The 10 hPa vortex rebuilds to about 41 m/s by mid-December, and the QBO is westerly (+15.91 m/s at 30 hPa).
+- The Hovmöller and the 9 November weekly maps put the UK in a south-westerly or south-easterly, with Scotland 0 to +1 °C.
+- Eurasian snow cover is below normal (14.55 against 16.06 million km²), so the air upwind is not very cold.
+
+A new major SSW cannot start before about 2 December, 20 westerly days after the last easterly day. The 46-day chart has about 2 of 101 members easterly on 23-26 December.
+
+For Edinburgh: high pressure to the north gives frost and fog under a high, or a south-easterly or easterly. In an easterly the North Sea (+0.69 °C) gives showers of rain or sleet near sea level and snow on the Pentlands. Snow at the coast needs 850 hPa near -8 °C. A strong vortex in mid-December favours mild, wet westerlies.&lt;/p&gt;</content>
+</entry>
+<entry>
+  <title>Frost and dry weather last to 14 November. Then Atlantic rain and gales start on 15 November, as the record-early major SSW peaks on 11-12 November.</title>
+  <link href="https://wojciechsmigielskijr.github.io/edinburgh-weather/#forecast"/>
+  <id>https://wojciechsmigielskijr.github.io/edinburgh-weather/run/20261111T0904Z</id>
+  <updated>2026-11-11T09:04:00+00:00</updated>
+  <content type="html">&lt;p&gt;No Met Office warnings are in force for Edinburgh. The airport fell to -4 °C at 04:20 UTC under a clear sky, about 5 °C below my forecast low of 1 °C.
+
+A cold, dry northerly on 12 November and a ridge on 13 November give two more frosty nights. Atlantic lows bring rain on most days from 15 November, with gales at times. Cold air on 16 November gives a risk of sleet or snow on the Pentlands and ice on wet ground.
+
+High above us, the 60°N wind at 10 hPa is easterly today in 100% of the members of four ensembles. It is westerly again from about 14 November.&lt;/p&gt;&lt;p&gt;&lt;b&gt;What changed:&lt;/b&gt; Verification: the airport fell to -4 °C at 04:20 UTC today, against my low of 1 °C. A clear sky and a calm wind gave the miss. Yesterday it reached 8 °C, the same as my high.
+
+Short range:
+- 12 November: low 0 °C (was 0.5 °C). ECMWF ENS frost is 24% (was 20%).
+- 13 November: low -1 °C (was -0.5 °C). ECMWF ENS frost is 61% (was 67%).
+- 14 November: low 2 °C (was 3 °C) and rain 8% (was 7%).
+- 15 November: rain 72% (was 55%). ECMWF ENS is 84% (was 73%), GEFS 68% (was 35%) and UKMO 25.2 mm (was 0.3 mm). ECMWF HRES is now dry (0.1 mm, was 8.7 mm).
+- 16 November: rain 74% (was 78%), low 1.5 °C (was 3 °C) and high 6.5 °C (was 8 °C). ECMWF ENS now gives ice in 45% and lying snow in 6% of members.
+- 17 November: ECMWF HRES gives 18.3 mm (was 6.7 mm), and GEM 27.0 mm (was 54.8 mm).
+
+Extended range: the new ECMWF regimes (10 November) end NAO+ sooner. NAO- is now 28-44% on 18-30 November (was 15-26%), and Blocking peaks at 46% on 4 December (was 42%). The meteogram week to 23 November is about -0.3 °C (was about 0 °C).
+
+Stratosphere:
+- GEFS now keeps 100% of members easterly on 13 November, with a lowest member of -3.7 m/s (was -2.8 m/s). GEPS reaches -4.3 m/s (was -4.1 m/s).
+- At the 100 hPa cap, more members reach +1 sd on some day: AIFS ENS 86% (was 73%), GEPS 86% (was 76%) and GEFS 39% (was 26%). ECMWF ENS is 63% (was 65%).
+- The HRES heat-flux pulse is 28.5 K m/s (was 25.8 K m/s) and AIFS 30.8 K m/s (was 21.0 K m/s), but GFS falls to 16.2 K m/s (was 23.8 K m/s).
+- The tropospheric caps rise: HRES +1.75 sd at 500 hPa on 25 November (was +0.57 sd), and GFS +2.57 sd at 1000 hPa (was +1.43 sd).
+- The ECMWF 46-day chart now has a few members easterly on 18-25 December (was none to 24 December).&lt;/p&gt;&lt;p&gt;&lt;b&gt;SSW risk:&lt;/b&gt; high. The major SSW of 10-13 November is the earliest in the record since 1979. At 10 hPa it is short, about 3-4 days.
+
+The event grew from below. A Ural-Scandinavian block over open Barents-Kara water (+1.73 °C, 69% of cells above +1 °C) and a deep Aleutian low (PNA +1.5) sent waves up. Part of the response came before the reversal: the AO reaches -2.03 and the NAO -1.62 in the GEFS means on 12-14 November.
+
+The usual lag of 2-4 weeks gives about 24 November to 8 December. For a response then:
+- 63-86% of ECMWF ENS, AIFS ENS and GEPS members lift the 100 hPa cap above +1 sd again on 20-24 November.
+- The GFS and HRES tropospheric caps reach +1.75 to +2.57 sd on 23-25 November, and the GEFS AO mean is -1.15 on 25 November.
+- ECMWF now has NAO- as the first regime on 25-30 November and Blocking at 37-46% on 2-8 December.
+
+Against a response:
+- The 10 hPa vortex rebuilds to about 41 m/s by mid-December, and the QBO is westerly (+15.91 m/s at 30 hPa).
+- The weekly maps keep Scotland 0 to +1 °C to 21 December, and the air upwind is mild, with Eurasian snow cover below normal.
+
+A new major SSW cannot start before about 3 December, 20 westerly days after the last easterly day. In the record, another event followed within 60 days in 2 of 31 cases, and in 0 of 4 after an early event. The 46-day chart now shows a few members easterly on 18-25 December.
+
+For Edinburgh: a response gives frost and fog under a high, or an easterly or a northerly. In an easterly the North Sea (+0.66 °C) gives showers of rain or sleet near sea level and snow on the Pentlands. Snow at the coast needs 850 hPa near -8 °C. A strong vortex in mid-December favours mild, wet westerlies.&lt;/p&gt;</content>
+</entry>
+<entry>
+  <title>Dry with frost to 14 November, then rain and gales from 15 November. High above us, a record-early major SSW peaks on 11-12 November.</title>
+  <link href="https://wojciechsmigielskijr.github.io/edinburgh-weather/#forecast"/>
+  <id>https://wojciechsmigielskijr.github.io/edinburgh-weather/run/20261110T1502Z</id>
+  <updated>2026-11-10T15:02:00+00:00</updated>
+  <content type="html">&lt;p&gt;No Met Office warnings are in force for Edinburgh. At 14:50 UTC the airport had 8 °C, a light east-north-easterly and few clouds. That is about 1.5 °C warmer than the hourly guidance.
+
+A ridge keeps 10-14 November dry. A cold northerly on 12 November and a calm ridge on 13 November give the coldest nights, near 0.5 °C and -0.5 °C at the airport.
+
+Atlantic fronts bring rain from 15 November. ECMWF HRES is now wet on 15-16 November. Deep lows give gales on 15 and 17 November, and wet, windy westerlies follow to about 24 November.
+
+High above us, the 60°N wind at 10 hPa turns easterly on 10-13 November in 100% of the members of four ensembles. The upper vortex is strong again by late November, but the lower stratosphere stays weak.&lt;/p&gt;&lt;p&gt;&lt;b&gt;What changed:&lt;/b&gt; Verification: this morning the airport fell to about 2-3 °C, near my low of 2.5 °C. This afternoon it reached 8 °C, 0.5 °C above my high of 7.5 °C, and 1.5 °C above the hourly guidance.
+
+Short range:
+- 10 November: I set the high to 8 °C (was 7.5 °C).
+- 11 November: I set 1 °C for the low (was 1.5 °C), because my lows ran too warm against the airport.
+- 12 November: ECMWF ENS frost is 20% (was 12%). I keep 0.5 °C and 6.5 °C.
+- 13 November: ECMWF ENS frost is 67% (was 47%). I keep -0.5 °C and raise the frost hazard to high.
+- 14 November: I set 3 °C for the low (was 3.5 °C).
+- 15 November: ECMWF HRES is now wet (8.7 mm, was 2.1 mm), but GEFS is drier (35%, was 45%). I set 55% (was 60%).
+- 16 November: ECMWF HRES is now wet (11.3 mm, was 0.0 mm), and ECMWF ENS is 84% (was 75%). I set 78% (was 75%) and a high of 8 °C (was 8.5 °C).
+
+Medium range: ECMWF HRES now gives gusts of 65 km/h on 17 November (was 70 km/h). GFS adds gusts of 76 km/h on 19 November. The GFS snow outlier of 19 November is gone.
+
+Extended range: the ECMWF charts, the Simon Lee index and the AER post are the same. The new GEFS AO forecast goes back to -1.15 on 25 November with 81% of members negative (was -0.34 on 24 November). The Met Office text now runs to 9 December and gives a larger chance of cold from the north.
+
+Stratosphere:
+- The reversal shares stay at 100% in all four ensembles. GEFS (06Z) now has 84% easterly today.
+- At the 100 hPa cap, more members reach +1 sd on some day. The values are ECMWF ENS 65% (was 63%), AIFS ENS 73% (was 69%) and GEFS 26% (was 19%). GEPS stays at 76%.
+- The GFS tropospheric cap flips back to positive, +1.2 to +1.5 sd at 850-1000 hPa on 24-26 November (was -0.9 to -1.4 sd). ECMWF HRES drops its 500 hPa cap to +0.57 sd on 24 November (was +1.65 sd).
+- The HRES heat-flux pulse is larger, 25.8 K m/s on 21 November (was 20.5 K m/s), and mostly wave 2.
+- Upwind, Oslo now has 0% of members at -8 °C on 13 November (was 14%), but snow cover reaches 22-31% of members on 21-24 November.&lt;/p&gt;&lt;p&gt;&lt;b&gt;SSW risk:&lt;/b&gt; high. The major SSW of 10-13 November is near certain, and it is the earliest in the record since 1979. It is short at 10 hPa, about 3-4 days.
+
+The event grew from below. A Ural-Scandinavian block over open Barents-Kara water (+1.78 °C) pushed waves into a young vortex in late October. The push stopped near 5 November, and the polar night cools the upper vortex fast.
+
+Part of the response comes first. The 100 hPa cap was above +1 sd before the reversal. The GEFS AO mean reaches -2.03 on 12 November and the NAO mean -1.62 on 14 November. So the frost of 11-13 November comes partly from the stratosphere and partly from an Atlantic ridge.
+
+The usual lag of 2-4 weeks gives about 25 November to 9 December. For a response then:
+- 53-63% of ECMWF ENS, AIFS ENS and GEPS members lift the 100 hPa cap above +1 sd again on 20-24 November.
+- The GFS cap reaches +1.2 to +1.5 sd at 850-1000 hPa on 24-26 November, and the GEFS AO mean goes to -1.15 on 25 November.
+- ECMWF makes Blocking the most likely regime on 1-7 December, at 29-42%.
+
+Against a response:
+- ECMWF HRES now keeps the 500 hPa cap near +0.57 sd on 24 November. GEM and UKMO keep it negative to their ends.
+- The 10 hPa vortex rebuilds to about 40-43 m/s in December, and the QBO is westerly (+15.91 m/s at 30 hPa).
+- The ECMWF weekly maps keep Scotland 0 to +1 °C from 16 November to 21 December.
+
+A new major SSW cannot start before about 3 December, 20 westerly days after the last easterly day. In the record, another event followed within 60 days in 2 of 31 cases, and in 0 of 4 after an early event.
+
+For Edinburgh: a response in late November or early December gives frost and fog under a high, or an easterly or a northerly. In an easterly the North Sea (+0.83 °C) gives showers of rain or sleet near sea level and snow on the Pentlands. Snow at the coast needs 850 hPa near -8 °C. A strong vortex in mid-December favours mild, wet westerlies.&lt;/p&gt;</content>
+</entry>
+<entry>
+  <title>Dry and frosty to 14 November, then Atlantic rain and gales on 15-17 November, while the earliest major SSW on record peaks high above us.</title>
+  <link href="https://wojciechsmigielskijr.github.io/edinburgh-weather/#forecast"/>
+  <id>https://wojciechsmigielskijr.github.io/edinburgh-weather/run/20261110T0904Z</id>
+  <updated>2026-11-10T09:04:00+00:00</updated>
+  <content type="html">&lt;p&gt;No Met Office warnings are in force. At 08:50 the airport had 3 °C and patches of very low cloud. That is about 3 °C colder than the hourly guidance.
+
+A weak ridge keeps 10-11 November dry. A dry northerly on 12 November and a ridge on 13 November give the coldest nights, near 0.5 °C and -0.5 °C at the airport.
+
+Atlantic fronts bring rain from 15 November. A deep low brings gales on about 17 November, and wet, windy westerlies follow to about 24 November.
+
+High above us, the 60°N wind at 10 hPa turns easterly on 10-13 November in 100% of the members of four ensembles. The upper vortex is strong again by late November.&lt;/p&gt;&lt;p&gt;&lt;b&gt;What changed:&lt;/b&gt; Verification: this morning the airport fell to 3 °C by 07:20, after 6 °C at 02:50. The cloud at 4400 ft cleared, and the hourly guidance (5.8 °C at 09:00) ran about 3 °C too warm. My low of 2.5 °C for today is on track, because the METAR 24-hour minimum is 2 °C.
+
+Short range:
+- 11 November: I keep 1.5 °C and set 7 °C for the high (was 6.5 °C). AIFS ENS frost is 41% (was 29%).
+- 12 November: ECMWF ENS frost is 12% (was 31%), and GEFS is still 100%. I set 0.5 °C (was 0 °C) and 6.5 °C (was 6 °C).
+- 13 November: ECMWF ENS frost is still 47%, but GEM ENS drops to 0% (was 38%). I keep -0.5 °C and set 6 °C (was 5.5 °C).
+- 14 November: GEFS frost is 32% (was 81%). I set 3.5 °C for the low (was 2.5 °C).
+- 15 November: ECMWF ENS is still 78% for more than 1 mm. But ICON drops its rain (0.0 mm, was 11.4 mm), and UKMO drops its gusts (13 km/h, was 67 km/h). I lower the chance to 60% (was 65%), a medium risk.
+- 16 November: UKMO ENS (89%) and AIGEFS (94%) are wetter, and GEM gives 35.2 mm (was 20.3 mm). ECMWF HRES is still cold and dry. I set 75% (was 78%).
+
+Medium range:
+- 17 November is stormier in GEM (54.8 mm and gusts of 84 km/h). ECMWF HRES still gives 9.2 mm and gusts of 70 km/h.
+- GFS has a new outlier on 19 November: 22 mm with 4.4 cm of snow.
+
+Extended range: the ECMWF charts and the NOAA AO and NAO forecasts are the same runs. Simon Lee&amp;#x27;s newer run (8 November) puts the NAO+ peak higher, at +0.8 sd (was +0.4 sd). AER has a new post (9 November) that expects a stretched vortex.
+
+Stratosphere:
+- GEPS keeps 95% of members easterly on 13 November (was 24%). AIFS ENS has 45% on 10 November (was 27%).
+- More members lift the 100 hPa cap above +1 sd again on 21-24 November: GEPS 52-62% (was 29-33%) and AIFS ENS 55-63% (was up to 53%).
+- The GFS tropospheric cap flips. It now has -0.9 to -1.4 sd at 1000 hPa on 22-26 November (was +1.78 sd on 25 November). ECMWF HRES still has +1.65 sd at 500 hPa on 24 November.
+- The GFS heat-flux pulse is now mostly wave 2 (14.7 of 22.8 K m/s). The AIFS pulse is weaker (24.3 K m/s, was 31.1 K m/s).
+- AAM is +1.46 sd on 9 November (was +1.35 sd), a revised value.&lt;/p&gt;&lt;p&gt;&lt;b&gt;SSW risk:&lt;/b&gt; high. The major SSW of 10-13 November is near certain, and it is the earliest in the record. It is short at 10 hPa, about 3-4 days.
+
+The event grew from below. A Ural-Scandinavian block over open Barents-Kara water (+1.78 °C) pushed waves into a young vortex in late October. The push stopped near 5 November, and the polar night cools the upper vortex fast.
+
+Part of the response comes first. The 100 hPa cap was above +1 sd before the reversal. The GFS surface cap rises to +0.6 sd on 13-14 November, and the GEFS AO mean reaches -2.05 on 12 November. So the frost of 11-13 November comes partly from the stratosphere and partly from an Atlantic ridge.
+
+The usual lag of 2-4 weeks gives about 25 November to 9 December. For a response then:
+- 39-63% of ECMWF ENS, AIFS ENS and GEPS members lift the 100 hPa cap above +1 sd again on 21-24 November.
+- ECMWF makes Blocking the most likely regime on 1-7 December, at 29-42%.
+- ECMWF HRES has the 500 hPa cap at +1.65 sd on 24 November.
+
+Against a response:
+- The GFS surface cap falls to -0.9 to -1.4 sd on 22-26 November, a positive-AO pattern. Judah Cohen also expects the AO to turn positive next week.
+- The 10 hPa vortex rebuilds to about 40-43 m/s in December, and the QBO is westerly (+15.91 m/s at 30 hPa).
+- The ECMWF weekly maps keep Scotland 0 to +1 °C from 16 November to 21 December.
+
+A new major SSW cannot start before about 3 December, 20 westerly days after the last easterly day. In the record, another event followed within 60 days in 2 of 31 cases, and in 0 of 4 after an early event.
+
+For Edinburgh: a response in late November or early December gives frost and fog under a high, or an easterly or a northerly. In an easterly the North Sea (+0.83 °C) gives showers of rain or sleet near sea level and snow on the Pentlands. Snow at the coast needs 850 hPa near -8 °C. A strong vortex in mid-December favours mild, wet westerlies.&lt;/p&gt;</content>
+</entry>
+<entry>
+  <title>Dry and cold to 14 November, with frost likely on the nights of 11-13 November, then Atlantic rain and strong winds from 15 November.</title>
+  <link href="https://wojciechsmigielskijr.github.io/edinburgh-weather/#forecast"/>
+  <id>https://wojciechsmigielskijr.github.io/edinburgh-weather/run/20261109T2231Z</id>
+  <updated>2026-11-09T22:31:00+00:00</updated>
+  <content type="html">&lt;p&gt;No Met Office warnings are in force. At 22:20 tonight the airport had 6 °C, a dew point of 5 °C, a calm wind and overcast cloud at 4400 ft.
+
+A weak high keeps 10-11 November dry and grey. A dry northerly on 12 November and a ridge on 13 November give the coldest nights, near 0 to -0.5 °C at the airport.
+
+Atlantic fronts bring rain and strong winds from 15 November. Wet, windy westerlies follow to about 24 November. Early December leans a little to a high over Scandinavia.
+
+High above us, the 60°N wind at 10 hPa turns easterly on 10-12 November in 100% of the members of four ensembles. This is the earliest major SSW in the record, but it is short, and the vortex is strong again by late November.&lt;/p&gt;&lt;p&gt;&lt;b&gt;What changed:&lt;/b&gt; Verification of this morning&amp;#x27;s forecast: I gave 8.5 °C for 9 November, and the airport reached 9 °C. The mist cleared by 10:20, near my 11:00. Tonight is cloudier than I expected, with overcast cloud at 4400 ft and 6 °C at 22:20.
+
+Short range:
+- 10 November is a little milder at night under the cloud. I set 2.5 °C (was 2 °C).
+- 12-13 November: ECMWF ENS frost is lower at 31% and 47% (was 55% and 75%). GEFS is 100% on both days (was 97%). I set -0.5 °C on 13 November (was -1 °C).
+- 14 November: most models stay mild, and only GEFS keeps a frost (81%). I set 8 °C for the high (was 7.5 °C).
+- 15 November is wetter in ECMWF ENS, at 80% for more than 1 mm (was 63%). But ECMWF HRES now gives only 1.2 mm (was 12.3 mm) and keeps gusts of 70 km/h.
+
+Medium range:
+- ECMWF HRES now has a cold, dry 16 November under a cold pool, at 5.3 °C and 0.0 mm. The ensembles still give 74-86% for rain that day.
+- The AO no longer turns positive late. GEFS has -0.34 on 24 November (was +0.63 on 23 November). The NAO stays negative in 68-74% of members on 18-24 November.
+- Upwind cold is weaker: Oslo and Stockholm reach -8 °C in only 8-12% of members (was 33%).
+
+Extended range (now the 9 November run):
+- NAO+ peaks higher, at 79-82% on 16-18 November (was 65%).
+- Blocking in early December is stronger, at 31-42% on 2-7 December (was 25-33%).
+- The week to 16 November is near -2.5 °C (was -2.8 °C).
+
+Stratosphere:
+- GEFS 12Z has 100% of members easterly already on 10 November, with a lowest member of -4.4 m/s.
+- More members bring the 100 hPa cap back above +1 sd. AIFS ENS has up to 53% (was 25-35%), ECMWF ENS 35-43% (was 31-37%) and GEFS 10-13% (was 0%). The GFS run peaks at +1.22 sd (was +0.79 sd).
+- New: ECMWF HRES and GFS raise the 500 hPa cap to +1.6 sd on 24 November.
+- The late heat-flux pulse is weaker in GFS (21.3 K m/s, was 28.4) and stronger in AIFS (31.1 K m/s, was 26.6).&lt;/p&gt;&lt;p&gt;&lt;b&gt;SSW risk:&lt;/b&gt; high. The major SSW on 10-13 November is near certain. It is the earliest in the record, and it is short at 10 hPa.
+
+The event grew from below. A Ural-Scandinavian block over warm, open Barents-Kara water (+1.78 °C) pushed waves into a young vortex. The push stopped near 5 November, so the upper vortex rebuilds fast.
+
+About two thirds of major SSWs reach the troposphere, usually 2-4 weeks later. For this event that window is about 24 November to 11 December. The 100 hPa cap was above +1 sd before the reversal, so part of a response can come earlier.
+
+For a surface response:
+- 25-53% of AIFS ENS, ECMWF ENS and GEPS members bring the 100 hPa cap back above +1 sd on 20-24 November.
+- ECMWF HRES and GFS raise the 500 hPa cap to +1.6 sd on 24 November.
+- ECMWF Blocking leads on 2-7 December at 31-42%, with high pressure over Scandinavia on the 30 November to 7 December map.
+- The GEFS NAO stays negative in 68-74% of members on 18-24 November.
+
+Against a response:
+- The 50 hPa wind stays westerly, and the 10 hPa vortex rebuilds to about 40-43 m/s in December.
+- The westerly QBO (+15.91 m/s at 30 hPa) helps the rebuild.
+- NAO+ reaches 79-82% on 16-18 November, and the ECMWF weekly maps keep Scotland 0 to +1 °C from 16 November to 21 December.
+
+The frost on 11-13 November comes from an Atlantic ridge in the troposphere. It is too early to be a downward response.
+
+For Edinburgh: a response in late November or early December gives frost and fog under a high, or an easterly or northerly. In an easterly the North Sea (+0.83 °C) gives showers of rain or sleet near sea level and snow on the Pentlands. Snow at the coast needs 850 hPa near -8 °C. A strong vortex in mid-December favours mild, wet westerlies.&lt;/p&gt;</content>
+</entry>
+<entry>
+  <title>Mist and frost this week, coldest on 12-13 November, then Atlantic rain and strong winds from 15 November.</title>
+  <link href="https://wojciechsmigielskijr.github.io/edinburgh-weather/#forecast"/>
+  <id>https://wojciechsmigielskijr.github.io/edinburgh-weather/run/20261109T0904Z</id>
+  <updated>2026-11-09T09:04:00+00:00</updated>
+  <content type="html">&lt;p&gt;No Met Office warnings are in force. At 08:50 the airport had mist, 6 °C, a dew point of 6 °C, broken cloud at 300 ft and a visibility of 4000 m.
+
+A weak high keeps Monday to Wednesday dry, with mist and fog patches at night. On 12-13 November a dry northerly and then a ridge give the coldest nights, with a frost near -1 °C at the airport.
+
+Atlantic fronts bring rain and strong winds from 15 November. A changeable westerly pattern follows to about 26 November.
+
+High above us, the 60°N wind at 10 hPa turns easterly on 10-13 November in every ensemble. This is a very early major SSW, but it is short, and the vortex rebuilds by late November.&lt;/p&gt;&lt;p&gt;&lt;b&gt;What changed:&lt;/b&gt; Verification: yesterday the airport reached 9 °C, against my 9.5 °C. The rain stopped near 10:20, close to my 12:00. The temperature fell to 4 °C by 23:50, colder than my low of 6 °C. This morning brought mist and cloud at 300 ft.
+
+Short range:
+- 10 November has lighter winds. The hourly gusts are under 10 km/h (I said 22 km/h).
+- 11 November is drier still. All ensembles give 0-6% for more than 1 mm (ECMWF ENS was 22%).
+- 12-13 November: GEFS frost is 97% on both days (was 58% and 74%). ECMWF ENS is 55% and 75% (was 57% and 75%). UKMO is now milder on 13 November (2.7 °C, was -0.6 °C). I set -1 °C (was -1.5 °C).
+- 14 November: UKMO drops its high and joins the mild models (low 6.7 °C, was -2.7 °C). I raise the day to 2.5 °C and 7.5 °C (was 1.5 °C and 6.5 °C).
+- 15 November is wetter and earlier. ECMWF ENS gives 63% (was 49%), and ECMWF HRES now brings 12.3 mm and gusts of 70 km/h that day.
+
+Medium range:
+- 16 November is wetter: ECMWF ENS 86% (was 76%), AIFS ENS 94% (was 80%), GEFS 74% (was 45%).
+- ECMWF HRES now brings a cold north-westerly on 16 November. Its wind peak moved from 16 November to 15 and 18 November.
+- The AO is deeper early (-1.94 on 12 November, was -1.84) but turns positive by 21-23 November (+0.44 to +0.63, was -0.2 to -0.4).
+- Oslo snow cover reaches 12% of members (was 24%), but Stockholm has 33% of members at -8 °C aloft (was 24%).
+
+Extended range (now the 8 November run):
+- The week to 16 November is colder, near -2.8 °C (was -2.3 °C). The week to 23 November has lower pressure, about -15 hPa (was -10 hPa).
+- Early December leans more to Blocking (25-33%, the largest regime on about 6-13 December). The 30 November to 7 December map now has higher pressure over Scandinavia, not a trough over the UK.
+
+Stratosphere:
+- Weatheriscool now gives 100% for ECMWF ENS (was 26%). The GEFS 9 November run has 0% easterly on 10 November and 87% on 13 November.
+- The 46-day chart has no member easterly again in December (was 1 member near -7 m/s).
+- The return share at the 100 hPa cap is higher: ECMWF ENS 20-37% on 16-23 November (was 8-22%).
+- A late split-type wave 2 (345-451 m at 10 hPa) now shows in ECMWF HRES, AIFS and GFS (was GFS only, 115-188 m).
+- AAM is +0.67 sd (was +0.30 sd), and the GWO amplitude is 1.64 (was 1.03).&lt;/p&gt;&lt;p&gt;&lt;b&gt;SSW risk:&lt;/b&gt; high. The reversal on 10-13 November is near certain. It is the earliest major SSW in the record, and it is short at 10 hPa.
+
+The event grew from below. A Ural-Scandinavian block over warm, open Barents-Kara water (+1.83 °C) pushed waves into a young vortex. The push stopped near 4 November, so the vortex rebuilds fast.
+
+About two thirds of major SSWs reach the troposphere, usually 1-3 weeks later. For this event that window is about 18 November to early December.
+
+For a surface response:
+- The 100 hPa cap returns above +1 sd in 20-37% of members in three ensembles on 16-25 November.
+- The GFS 1000 hPa cap reaches +0.88 sd on 20 November.
+- ECMWF has Blocking at 25-33% from about 30 November to 18 December, and higher pressure over Scandinavia on 30 November to 7 December.
+- Simon Lee&amp;#x27;s NAO- index stays near +0.5 sd in December.
+
+Against a response:
+- The 50 hPa wind stays westerly, and GEFS has 0% of members at +1 sd at 100 hPa after 9 November.
+- NAO+ is the largest ECMWF regime on 16-26 November, and the GEFS AO turns positive (+0.44 to +0.63) by 21-23 November.
+- The 10 hPa wind rebuilds to about 38-42 m/s in December. The westerly QBO (+15.91 m/s at 30 hPa) helps that rebuild.
+
+The frost on 11-13 November comes from a tropospheric ridge. It is too early to be a downward response.
+
+For Edinburgh: a weak response in late November or early December brings frost and fog under a high, or an easterly or northerly with snow on the Pentlands. The North Sea is +0.88 °C above normal, so snow at the coast needs colder air aloft than usual. A strong vortex in mid-December favours mild, wet westerlies.&lt;/p&gt;</content>
+</entry>
+<entry>
+  <title>Light rain clears by midday, then mostly dry weather to Wednesday, a frosty northerly on 12-14 November, and heavy rain and strong winds from 16 November.</title>
+  <link href="https://wojciechsmigielskijr.github.io/edinburgh-weather/#forecast"/>
+  <id>https://wojciechsmigielskijr.github.io/edinburgh-weather/run/20261108T0903Z</id>
+  <updated>2026-11-08T09:03:00+00:00</updated>
+  <content type="html">&lt;p&gt;No Met Office warnings are in force. At 08:50 the airport had light rain, 7 °C, a dew point of 7 °C and almost no wind. Visibility was 3000 m and the pressure was 1021 hPa.
+
+The rain stops near midday. A weak high then keeps Monday to Wednesday mostly dry and grey, with some bright spells and cooler nights.
+
+On 12-13 November a cold, dry northerly with clear skies gives frost. The night of 12-13 November is the coldest, with about -1.5 °C at the airport. Snow in the city is very unlikely, because the air is dry.
+
+From 15-16 November Atlantic lows return with heavy rain and strong winds. High above us, the 60°N wind at 10 hPa turns easterly on 10-12 November in all four ensembles.&lt;/p&gt;&lt;p&gt;&lt;b&gt;What changed:&lt;/b&gt; Verification: yesterday reached 11 °C at the airport, against my 10 °C. The night low was 6 °C, as I said for today. But the morning brought light rain, not the dry, grey weather I expected. So I raise today from low to medium.
+
+Short range:
+- 11 November is drier. ECMWF ENS gives 22% for more than 1 mm (was 47%). UKMO gives 0.0 mm (was 5.0 mm). I lower the risk from medium to low.
+- 12-13 November is a little colder. ECMWF ENS frost is 57% and 75% (was 43% and 71%). GEFS frost is 58% and 74% (was 32% and 52%).
+- 14 November splits more: UKMO is colder, and AIFS and GEM are milder.
+
+Medium range:
+- 16 November is wetter and windier. ECMWF ENS gives 76% (was 55%). ECMWF HRES gives 9.4 mm and gusts of 77 km/h (was 6.2 mm and 55 km/h).
+- The AO is a little deeper: -1.84 on 12 November (was -1.74). The NAO is similar: -1.08 on 13 November (was -1.14).
+
+Extended range (now the 7 November run):
+- The week to 16 November stays near -2 °C.
+- Early December now leans NAO+ (31-40%), with Blocking at 24-28%. The 6 November run had Blocking as the largest regime at 28-35%.
+- The 30 November to 7 December map now has a weak trough over the UK, and the Greenland high is weaker.
+
+Stratosphere:
+- AIFS ENS is 96% ever easterly (was 100%). GEFS now uses the 8 November run, again with 100%.
+- Fewer ECMWF ENS members stay above +1 sd at the 100 hPa cap on 15-21 November: 8-20% (was 25-39%).
+- The second heat-flux pulse moved between models: GFS 28.8 K m/s on 21 November (was 17.0 K m/s), ECMWF HRES 17.1 K m/s on 18 November (was 26.5 K m/s on 21 November).
+- AAM is +0.30 sd (was +0.52 sd), and the GWO moved to phase 8 with amplitude 1.03.&lt;/p&gt;&lt;p&gt;&lt;b&gt;SSW risk:&lt;/b&gt; high. The reversal on 10-12 November is near certain, the earliest major SSW in the record. It is short at 10 hPa, and the wind rebuilds above normal by early December.
+
+The event grew from below. A record Ural-Scandinavian block over open Barents-Kara water (+1.86 °C) pushed waves into a young vortex. The push stopped near 5 November, so the vortex recovers fast.
+
+About two thirds of major SSWs reach the troposphere, usually 1-3 weeks later. For this event that window is about 17 November to early December.
+
+For a surface response:
+- The 100 hPa cap was above +1 sd to 9 November, and 20-38% of members in three ensembles return above +1 sd on 20-24 November.
+- The GFS 1000 hPa cap reaches +0.84 sd on 18 November.
+- Simon Lee&amp;#x27;s NAO- index is about +0.8 sd on 3-10 December.
+
+Against a response:
+- The 50 hPa wind stays westerly, and GEFS has 0-3% of members at +1 sd at 100 hPa after 9 November.
+- ECMWF has NAO+ as the largest regime from 16 November to 4 December, at 27-50%.
+- The 10 hPa wind rebuilds to about 38-43 m/s in December. The westerly QBO (+15.91 m/s at 30 hPa) helps that rebuild.
+
+The frost on 12-14 November comes from the troposphere, as a ridge builds to our west. It is too early to be a downward response.
+
+For Edinburgh: a weak response in late November or early December brings frost and fog under a high, or a northerly with snow on the Pentlands. The North Sea is +0.98 °C above normal, so snow at the coast needs colder air aloft than usual. A strong vortex in mid-December favours mild, wet westerlies.&lt;/p&gt;</content>
+</entry>
+<entry>
+  <title>Grey and mostly dry to Tuesday, rain on Wednesday 11 November is now uncertain, and a clear, frosty northerly spell follows on 12-14 November.</title>
+  <link href="https://wojciechsmigielskijr.github.io/edinburgh-weather/#forecast"/>
+  <id>https://wojciechsmigielskijr.github.io/edinburgh-weather/run/20261107T0903Z</id>
+  <updated>2026-11-07T09:03:00+00:00</updated>
+  <content type="html">&lt;p&gt;No Met Office warnings are in force. At 08:50 the airport had 8 °C, a light variable wind, broken cloud at 3300 ft and 1024 hPa. The night was dry, with a low of 7 °C.
+
+A weak high keeps Saturday to Tuesday grey, mild and mostly dry. On Wednesday 11 November a low passes south of us, and only UKMO brings clear rain here.
+
+Behind the low, a cold northerly gives clear skies and frost on 12-14 November, with icy patches on wet surfaces. Atlantic wind and rain return from 15-16 November.
+
+High above us, the 60°N wind at 10 hPa reverses on 10-12 November in 100% of members of all four ensembles. It is the earliest major SSW on record.&lt;/p&gt;&lt;p&gt;&lt;b&gt;What changed:&lt;/b&gt; Verification: yesterday reached 11 °C at the airport, as I said. The night stayed above my 8.5 °C at 9 °C, and the morning low today was 7 °C under cloud. The pressure rose from 1028 hPa to 1024 hPa... it fell to 1024 hPa.
+
+Short range:
+- 7 November: drier. I called medium yesterday, and now I call low, because the morning stayed dry and the hourly guidance gives only 0.1 mm.
+- 11 November: drier and less certain. ECMWF ENS is 47% (was 78%). ECMWF HRES gives 0.2 mm (was 5.5 mm), and GEM and ICON are now dry. UKMO is wetter at 5.0 mm (was 2.6 mm).
+
+Medium range:
+- 12-14 November is colder. The ECMWF ENS 850 hPa mean is -5.0 °C on 13 November (was -3.5 °C). ECMWF ENS frost on 13 November is 71% (was 41%).
+- The windy return moves to 15-16 November. ECMWF HRES now gives 44-55 km/h (was 62 km/h on 15 November). GEM is much windier at 81-92 km/h (was 54 km/h).
+- The NOAA AO and NAO are more negative: AO -1.74 on 12 November (was -0.95), NAO -1.14 on 13 November (was -0.62).
+
+Extended range (now the 6 November run):
+- The week to 16 November is about -1.5 °C (was -0.5 °C).
+- The 30 November to 7 December map now has high pressure over Greenland and a trough near the UK. Yesterday it had a ridge over Scandinavia.
+
+Stratosphere:
+- AIFS ENS is now 100% ever easterly (was 86%), and ARPEGE now reverses too.
+- Fewer ECMWF ENS members stay above +1 sd at 100 hPa on 16-20 November: 25-39% (was 45-55%).
+- The GFS 1000 hPa cap is now +0.7 sd on 17-18 November, then -1.1 to -1.2 sd on 22-23 November (was +1.0 to +1.25 sd on 15-22 November).
+- The ECMWF HRES heat-flux pulse is weaker and later: 26.5 K m/s on 21 November (was 32.4 K m/s on 20 November).
+- The North Sea anomaly is +0.99 °C (was +1.19 °C).&lt;/p&gt;&lt;p&gt;&lt;b&gt;SSW risk:&lt;/b&gt; high. The reversal on about 10-12 November is near certain, the earliest major SSW in the record. It is short at 10 hPa. The lower stratosphere stays weak for longer, but less so than in yesterday&amp;#x27;s runs.
+
+The event grew from below. A strong Ural-Scandinavian block over open Barents-Kara water (+1.96 °C) pushed waves into a young vortex. The block ends on 9-10 November, so the push stops.
+
+About two thirds of major SSWs reach the troposphere, usually 1-3 weeks later. For this event that window is about 17 November to early December.
+
+For a surface response:
+- The GFS 1000 hPa cap is +0.7 sd on 17-18 November.
+- ECMWF has Blocking plus NAO- near 50% on 27-29 November and Blocking at 28-35% on 2-7 December. Its weekly maps have high pressure over Greenland on 30 November to 7 December and on 14-21 December.
+- The SEAS5 November issue has NAO medians of about -1.5 to -3.0 from November to February. Seasonal models understate the NAO, so I give this signal extra weight.
+
+Against a response:
+- The 50 hPa wind stays westerly, and the heat flux is near normal after 7 November.
+- GEFS has only 0-3% of members at +1 sd at 100 hPa after 9 November. The GFS 1000 hPa cap turns to -1.1 to -1.2 sd on 22-23 November.
+- ECMWF has NAO+ as the largest regime at 37-49% on 15-25 November.
+- The 10 hPa wind rebuilds to about 38-43 m/s in December, above its model climate. The westerly QBO (+15.9 m/s at 30 hPa) helps that rebuild.
+
+The northerly on 12-14 November comes from the troposphere, as the block ends and a ridge builds to our west. It is too early to be a downward response.
+
+For Edinburgh:
+- A response in late November or early December most likely brings frost and fog under a high, or a northerly with snow on the Pentlands.
+- The North Sea is +0.99 °C against 1991-2020, so snow at the coast needs colder air aloft than usual.
+- A strong vortex in mid-December favours mild, wet westerlies.
+
+My view is wrong if most members put the 100 hPa cap back above +1 sd after 20 November and the AO stays below -1 into early December.&lt;/p&gt;</content>
+</entry>
+<entry>
+  <title>Grey and mild to Sunday, rain is likely on Wednesday 11 November, and then all main models bring a frosty northerly on 12-14 November.</title>
+  <link href="https://wojciechsmigielskijr.github.io/edinburgh-weather/#forecast"/>
+  <id>https://wojciechsmigielskijr.github.io/edinburgh-weather/run/20261106T0904Z</id>
+  <updated>2026-11-06T09:04:00+00:00</updated>
+  <content type="html">&lt;p&gt;No Met Office warnings are in force. At 08:50 the airport had 10 °C, an east wind of 13 km/h, broken cloud at 4100 ft and 1028 hPa. The night stayed at 9 °C under cloud, after light rain near 19:20 yesterday.
+
+A high over the North Sea keeps Friday to Tuesday grey, mild and mostly dry, with drizzle at times on Saturday and Sunday. Atlantic fronts bring rain on Wednesday 11 November.
+
+Behind the fronts, ECMWF, AIFS, GEM and now also GFS bring a cold northerly on 12-14 November. Expect frost, icy patches and snow showers on the Pentlands. Snow that settles in the city is unlikely.
+
+High above us, the polar vortex reverses to easterly at 10 hPa on about 10-12 November in 86-100% of ensemble members.&lt;/p&gt;&lt;p&gt;&lt;b&gt;What changed:&lt;/b&gt; Verification: yesterday reached 10 °C at the airport, as I said. The night stayed at 9 °C under cloud, after light rain near 19:20. The pressure fell from 1034 hPa to 1028 hPa.
+
+Short range:
+- 6 November: still mostly dry. AIFS ENS is now 71% for more than 1 mm (was 33%), and GEFS is 26% (was 35%).
+- 7 November: GEFS is wetter at 61% (was 10%), and ECMWF ENS is drier at 29% (was 41%).
+- 11 November: wetter. ECMWF ENS is 78% (was 51%), and ECMWF HRES now gives 5.5 mm (was dry).
+
+Medium range:
+- The northerly on 12-14 November is now in all main models. GFS and GEFS were mild last run. The GEFS 850 hPa mean is now -2.5 °C on 12 November (was +1.9 to +2.7 °C on 13 November).
+- The frost share on 13 November is up: ECMWF ENS 41% (was 29-35%) and GEFS 42% (was 13-16%).
+- New: a windy return on 15 November in ECMWF HRES (gusts 62 km/h) and GEM (54 km/h).
+
+Extended range (now the 5 November run):
+- The week to 16 November is about -0.5 °C (was -1.5 °C).
+- Atlantic Ridge is stronger on 10-14 November (56-80%, was 28-49%). NAO+ peaks at 49% on 19 November (was 45% on 21 November).
+- Blocking is stronger in early December (30-40% on 4-11 December, was 22-29%).
+
+Stratosphere:
+- NASA data is back. The vortex is about 14 m/s below the record low for the date.
+- AIFS ENS is 86% ever easterly (was 90%), and GEPS is 100% (was 95%). GFS easterlies now reach 20 hPa (was 10 hPa).
+- More ECMWF ENS members are back above +1 sd at 100 hPa on 16-20 November: 45-55% (was 41-47%). GEFS stays at 0-6%.
+- The GFS 1000 hPa cap is now +1.0 to +1.25 sd on 15-22 November (was -0.6 to +0.5 sd).
+- New: an ECMWF HRES heat-flux pulse of 32.4 K m/s on 20 November, and the SEAS5 NAO medians of -1.5 to -3.0 for November to March.&lt;/p&gt;&lt;p&gt;&lt;b&gt;SSW risk:&lt;/b&gt; high. The reversal on about 10-12 November is near certain. It will be the earliest major SSW in the record. It is short at 10 hPa, but the lower stratosphere stays disturbed. ECMWF ENS keeps about half its members above +1 sd at 100 hPa on 16-20 November.
+
+The event grew from below. A strong Ural-Scandinavian block over open Barents-Kara water (+1.99 °C) pushed waves into a young vortex. The block now ends, so the push stops.
+
+About two thirds of major SSWs reach the troposphere, usually 1-3 weeks later. For this event that window is about 17 November to early December.
+
+For a surface response:
+- GFS has its 1000 hPa cap at +1.0 to +1.25 sd on 15-22 November.
+- ECMWF Blocking rises to 30-40% on 4-11 December, and Lee&amp;#x27;s NAO- index is near +0.8 sd in early December.
+- The SEAS5 November issue (start 1 November, so it sees the start of the event) has NAO medians of about -1.5 in November and December, -1.8 in January and -3.0 in February. Its DJF pressure map has a high near Iceland and low pressure over the UK. Seasonal models understate NAO signals, so I give this extra weight.
+
+Against a response:
+- The 50 hPa wind stays westerly, and the heat flux is near normal after 8 November.
+- GEFS has only 0-6% of members above +1 sd at 100 hPa after 13 November, and its AO is near +0.3 by 17-19 November.
+- ECMWF has NAO+ as the largest regime at 33-49% on 15-25 November.
+- The 10 hPa wind rebuilds to about 40-43 m/s in mid-December, above its model climate. The westerly QBO (+15.9 m/s at 30 hPa) helps that rebuild.
+
+The northerly on 12-14 November comes from the troposphere, as the block ends and a ridge builds to our west. It is too early to be a downward response.
+
+For Edinburgh:
+- If a response comes in late November or early December, it most likely brings frost and fog under a high, or a northerly with snow on the Pentlands.
+- A NAO- with low pressure over the UK, as in SEAS5, brings wet weather with snow on the hills and sleet in the city.
+- The North Sea is +1.19 °C against 1991-2020, so snow at the coast needs colder air aloft than usual.
+- A strong vortex in mid-December favours mild, wet westerlies.
+
+The four early-SSW winters since 1979/80 (1981/82, 1987/88, 1998/99, 2001/02) had a mean DJF of -0.3 °C here. That is within chance, none had a November event, and four winters is a very small set.
+
+My view is wrong if most members keep the 100 hPa cap above +1 sd after 25 November and the AO falls below -1.5.&lt;/p&gt;</content>
+</entry>
+<entry>
+  <title>Grey and mild to Sunday with light rain at times, then a cold northerly with frost is likely on 12-14 November, but GFS stays mild.</title>
+  <link href="https://wojciechsmigielskijr.github.io/edinburgh-weather/#forecast"/>
+  <id>https://wojciechsmigielskijr.github.io/edinburgh-weather/run/20261105T0904Z</id>
+  <updated>2026-11-05T09:04:00+00:00</updated>
+  <content type="html">&lt;p&gt;No Met Office warnings are in force. At 08:50 the airport had 9 °C, an east wind of 19 km/h, cloud at 2800 ft and 1034 hPa. Cloud returned in the night, so the low was 4 °C, not the 2 °C that I expected.
+
+A high near southern Norway keeps today dry. East to south-east gusts reach 34-39 km/h near midday. Bonfire Night is dry, about 9 °C, with a light breeze.
+
+From Friday 6 to Sunday 8 November a weak low moves slowly towards the North Sea. It stays grey and mild, with light rain at times on Saturday and Sunday. The totals stay small, mostly under 2 mm a day.
+
+Monday 9 and Tuesday 10 November are mostly dry and cooler. Atlantic fronts reach southern Britain first. Rain reaches Edinburgh most likely on Wednesday 11 November.
+
+A cold northerly is likely on 12-14 November in ECMWF, AIFS and GEM, with frost and sleet or snow showers on the Pentlands. GFS and GEFS stay milder. Overhead, the polar vortex reverses to easterly at 10 hPa in 90-100% of ensemble members on 9-12 November.&lt;/p&gt;&lt;p&gt;&lt;b&gt;What changed:&lt;/b&gt; Verification: Wednesday reached 10 °C at the airport with a low of 0 °C, as I said. This morning cloud came back early, so the low was 4 °C, not 2 °C.
+
+Short range:
+- Today is dry, with an east wind (was south-east) and gusts of 34-39 km/h (no change).
+- 6 November: the ensembles are drier on the whole. GEFS is 35% (was 84%), but AIGEFS is still 87%.
+- 7-8 November: AIFS ENS is wetter (80% on 7 November, was 65%).
+- 10 November: drier in Edinburgh. ECMWF ENS is 24% (was 51%), and the fronts stay mostly to the south.
+- 11 November: ECMWF ENS is 51% (was 47%).
+
+Medium range:
+- The northerly on 12-14 November stays, and ECMWF HRES is colder (highs 4.0-4.8 °C, was 5.1-6.3 °C).
+- The ECMWF ENS frost share is up to 29-35% on 13-14 November (was 10-20%), and its snow share is 8% on 13 November (was 2-6%).
+- GEFS is milder. Its 850 hPa mean is +1.9 to +2.7 °C on 13 November and its 10th percentile about -2.7 °C (was about -6.7 °C). So the models split more than before.
+
+Extended range (now the 4 November run):
+- The week to 16 November is colder in the meteogram, about -1.5 °C (was -0.5 °C).
+- Atlantic Ridge now leads on 10-19 November, and NAO+ peaks at 45% on 21 November (was 35-43%).
+
+Stratosphere:
+- ECMWF ENS is 100% ever easterly (was 98%), and AIFS ENS 90% (was 82%). The GEFS 5 November run is 100%, with a median of 10 November (was 6 November). GEPS is 95% (was 100%).
+- Fewer members keep the 100 hPa cap above +1 sd on 12-17 November: ECMWF ENS 29-47% (was 47-57%) and GEPS 14-38% (was 48-62%).
+- The GFS 1000 hPa cap is now -0.6 to +0.5 sd on 15-18 November (was -1.8 sd).&lt;/p&gt;&lt;p&gt;&lt;b&gt;SSW risk:&lt;/b&gt; high. The reversal is near certain on 9-12 November, the earliest major SSW on record if it verifies. It is short at 10 hPa, but deep on the 100 hPa polar cap at first. It started from below: a strong Ural-Scandinavian block over open Barents-Kara water at +2.08 °C pushed wave 2 into a young vortex.
+
+About two thirds of major SSWs reach the troposphere, usually 1-3 weeks later. For this event that window is about 16 November to early December.
+
+For a surface response:
+- AIFS ENS keeps 49-65% of members above +1 sd at 100 hPa to 19 November, and GEPS rises to 52-57% by 19-21 November.
+- GEFS keeps the AO mean at -0.4 to -0.7 on 10-15 November and the NAO mean near -0.7 on 12-14 November.
+- ECMWF Blocking returns at 22-29% in early December, and Simon Lee&amp;#x27;s NAO- index rises to +0.6 to +0.7 sd from 30 November.
+
+Against a response:
+- The 50 hPa wind stays westerly, and the heat flux drops to near normal after 6 November.
+- GEFS keeps only 3-10% of members above +1 sd at 100 hPa after 10 November.
+- ECMWF regimes favour NAO+ at 29-45% from 19 November to early December.
+- ECMWF rebuilds the 10 hPa wind to about 31 m/s by 25-27 November and about 42 m/s by mid-December, above its model-climate mean.
+
+The northerly on 12-14 November comes mostly from the troposphere: the block breaks and a ridge builds to our west as AAM falls. It is too early to be a downward response.
+
+For Edinburgh, a response most likely brings frost and fog under a high, or a cold northerly with snow on the Pentlands. The cold air upwind is thin, and the North Sea is +1.19 °C against 1991-2020, so coastal snow needs colder air aloft than usual. A strong vortex in December favours mild, wet westerlies. My call is wrong if most members keep the 100 hPa cap above +1 sd after 20 November and the AO falls below -1.5.&lt;/p&gt;</content>
+</entry>
+</feed>

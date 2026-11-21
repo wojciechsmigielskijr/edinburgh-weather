@@ -1,0 +1,11 @@
+{
+ "warnings": [
+  "yellow Yellow ice warning: Central, Tayside & Fife | Grampian | Highlands & Eilean Siar | North East England | North West England | Strathclyde | SW Scotland, Lothian Borders"
+ ],
+ "ssw_risk": "low",
+ "cold_winter_chance": "medium",
+ "cold_spell_chance": "medium",
+ "winter_kept": null,
+ "failed": [],
+ "run": "20261116T0904Z"
+}
